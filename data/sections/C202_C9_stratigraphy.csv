@@ -1,0 +1,18 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+3.3,limestone,siltstone[grainstone],,,C9_0.6,0.6,sandy green and pink crystalline limestone,,-10.56091881,-15.53747749
+1.1,limestone,siltstone[grainstone],,,C9_1,1,ls cemented siltstone,,-10.08662415,-15.83240509
+0.3,limestone,intraclast carbonate breccia,,ICT,C9_1.1,1.1,ls cemented siltstone,,-10.09503746,-15.15735626
+1.2,siliciclastic,ls cemented siltstone,,,C9_2.4,2.4,ls cemented siltstone,,-9.949508667,-14.85890007
+1,limestone,intraclast carbonate breccia,,ICT,C9_2.7,2.7,ls cemented siltstone,,-10.45545769,-14.95701885
+0.7,siliciclastic,siltstone[grainstone],,,C9_2.9,2.9,sandy grainstone,,-9.996433258,-15.09674072
+,,,,,C9_3.3,3.3,sandy grainstone,,-10.70009422,-15.25574207
+,,,,,C9_3.6,3.6,sandy grainstone,,-10.54367542,-14.67934418
+,,,,,C9_3.8,3.8,sandy grainstone,,-10.71326828,-15.94717216
+,,,,,C9_4,4,sandy grainstone,,-9.915685654,-14.85207176
+,,,,,C9_4.1,4.1,sandy grainstone,,-10.44573307,-15.16178226
+,,,,,C9_4.2,4.2,sandy grainstone,,-10.46069527,-14.8276844
+,,,,,C9_5.2,5.2,sandy grainstone,,-10.02006149,-14.82638359
+,,,,,C9_5.5,5.5,sandy grainstone,,-10.1563406,-16.24526978
+,,,,,C9_6.6,6.6,recrystallized grainstone,,-9.24702549,-15.59502411
+,,,,,C9_6.7,6.7,recrystallized grainstone,,-9.404409409,-15.33705807
+,,,,,C9_6.8,6.8,recrystallized grainstone,,-9.462182045,-15.49587059

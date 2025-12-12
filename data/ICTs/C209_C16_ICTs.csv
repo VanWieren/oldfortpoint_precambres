@@ -1,0 +1,257 @@
+sample_name,sample_height,sample_facies,sample_features,clast_len_cm,clast_width_cm,min_drildist_from_matrix_mm,d13c_carb,d18o_carb
+C16_105.1_ICT_1,105.1,sandy limestone,,14,3,NaN,-7.923959732,-18.24822235
+C16_105.1_ICT_2,105.1,sandy limestone,,11,3,NaN,-6.275611877,-23.10116005
+C16_105.1_ICT_3,105.1,sandy limestone,,6,1,NaN,-4.891490936,-18.83184052
+C16_105.1_ICT_4,105.1,grey crystalline limestone,,6,3,NaN,-8.339035988,-18.00128937
+C16_105.1_ICT_5,105.1,silty limestone,,5,1,0.5,-2.628957987,-17.9013195
+C16_105.1_ICT_6,105.1,silty laminated limestone,,4,1,1,-8.025422096,-17.933218
+C16_105.1_ICT_7,105.1,sand rimmed limestone,,3,2,2,-9.635555267,-17.77723122
+C16_105.1_ICT_8,105.1,sandy laminated limestone,,7,0.5,1,-1.478481531,-17.46487045
+C16_105.1_ICT_9,105.1,sandy limestone,,8,2,NaN,-7.264966965,-18.12380409
+C16_105.1_ICT_10,105.1,limestone cemented sandstone,,8,4,3,-9.124759674,-18.12849236
+C16_105.1_ICT_11,105.1,sandy limestone,,6,2,0.5,-5.370222569,-17.9660759
+C16_105.1_ICT_12,105.1,grey crystalline limestone,,10,2,NaN,-6.440226078,-17.84298706
+C16_105.1_ICT_13,105.1,grey crystalline limestone,,6,2.5,NaN,-7.966948986,-17.98994827
+C16_105.1_ICT_14,105.1,grey crystalline limestone,,5,4,NaN,-7.928314209,-18.07890129
+C16_105.1_ICT_15,105.1,sand interbedded grey crystalline limestone,,5,3,1,-7.753964901,-18.18263054
+C16_105.1_ICT_16,105.1,grey crystalline limestone,,11,4,NaN,-6.131771088,-17.56522369
+C16_105.1_ICT_17,105.1,grey crystalline limestone,,16,3,NaN,-5.654724121,-18.47812653
+C16_105.1_ICT_18,105.1,grey crystalline limestone,,16,6,3,-6.39257431,-17.85102654
+C16_105.1_ICT_19,105.1,grey crystalline limestone,,3,2,NaN,-8.262932777,-17.91918945
+C16_105.1_ICT_20,105.1,tan crystalline limestone,,10,4,1,-8.61489296,-17.82253265
+C16_105.1_ICT_21,105.1,grey crystalline limestone,,2,1,0.5,-7.376056671,-18.55351448
+C16_105.1_ICT_22,105.1,grey crystalline limestone,,4,1,2,-8.581840515,-17.97161484
+C16_105.1_ICT_23,105.1,tan crystalline limestone,,3,2,0,-8.44446373,-17.70489502
+C16_105.1_ICT_24,105.1,sandy limestone,,5,3,4,1.790233612,-18.10426712
+C16_105.1_ICT_25,105.1,sandy limestone,,8,2,NaN,-7.320744514,-20.71597862
+C16_105.1_ICT_26,105.1,sandy limestone,,4,2,1,-1.746644497,-18.2226963
+C16_105.1_ICT_27,105.1,sandy limestone,,3,1,1,-6.747018337,-21.27373505
+C16_105.1_ICT_28,105.1,grey crystalline limestone,,2,1,0.5,-6.17075491,-23.47481155
+C16_105.1_ICT_29,105.1,sandy grey crystalline limestone,,7,1.5,3,-6.074043274,-23.52236557
+C16_105.1_ICT_30,105.1,sandy grey crystalline limestone,,4,1.5,0.5,-6.335037231,-23.54651833
+C16_105.1_ICT_31,105.1,sandy grey crystalline limestone,,5,3,2,-3.971299887,-19.77674484
+C16_105.1_ICT_32,105.1,sandy grey crystalline limestone,,7,1,7,-6.246683121,-22.59384155
+C16_105.1_ICT_33,105.1,sandy grey crystalline limestone,,6.5,1.5,1,-7.491015434,-18.9361515
+C16_105.1_ICT_34,105.1,sandy grey crystalline limestone,,1,1,NaN,-5.840836048,-22.93846893
+C16_105.1_ICT_35,105.1,sandy grey crystalline limestone,,2,1,NaN,-8.029349327,-18.05404091
+C16_105.1_ICT_36,105.1,sandy grey crystalline limestone,,3,1,NaN,-6.004561424,-25.33948517
+C16_105.1_ICT_37,105.1,sandy grey crystalline limestone,,6,1,5,-6.364213467,-22.40200233
+C16_105.1_ICT_38,105.1,limestone cemented sandstone,,4,3,2,-7.033755302,-19.59083557
+C16_105.1_ICT_39,105.1,sandy grey crystalline limestone,,7,5,5,-5.549554825,-21.6430645
+C16_105.1_ICT_40,105.1,sandy grey crystalline limestone,,3,1,0,-7.424037933,-19.93198395
+C16_105.1_ICT_41,105.1,sandy limestone,,4,1,NaN,-5.830681324,-20.12921906
+C16_105.1_ICT_42,105.1,grey laminated crystalline limestone,fine laminations,11,9,7,-7.403265953,-17.54797554
+C16_105.1_ICT_43,105.1,grey crystalline limestone,,3,2.5,1,-7.581686974,-17.99834442
+C16_105.1_ICT_44,105.1,limestone cemented sandstone,matrix?,8,5,0.5,-7.643848419,-18.34684181
+C16_105.1_ICT_45,105.1,grey crystalline limestone,,4,3,NaN,-9.191905975,-17.80960464
+C16_105.1_ICT_46,105.1,grey crystalline limestone,,24,6,NaN,-8.699874878,-18.75009155
+C16_105.1_ICT_47,105.1,grey crystalline limestone,,10,3,NaN,-5.387693405,-17.83694839
+C16_105.1_ICT_48,105.1,sandy limestone,,25,1.5,NaN,-3.662022591,-17.95008278
+C16_105.1_ICT_49,105.1,grey crystalline limestone,,7,2,6,1.206309795,-17.99459267
+C16_105.1_ICT_50,105.1,sandy grey crystalline limestone,,10,3,1,-3.820689678,-18.14625359
+C16_105.1_ICT_51,105.1,tan crystalline limestone,,11,3,4,-8.663836479,-17.96964073
+C16_105.1_ICT_52,105.1,grey crystalline limestone,,5,3,2,-5.970099449,-14.7706337
+C16_105.1_ICT_53,105.1,grey crystalline limestone,,7,1,NaN,-6.431050777,-20.07006836
+C16_105.1_ICT_54,105.1,tan crystalline limestone,,7,2,3,-8.45903492,-18.3343792
+C16_105.1_ICT_55,105.1,grey crystalline limestone,,9,1,NaN,-8.274051666,-18.03724861
+C16_105.1_ICT_56,105.1,grey crystalline limestone,,6,2,NaN,-7.599273682,-19.98812866
+C16_105.1_ICT_57,105.1,grey crystalline limestone,,12,5,NaN,-4.949728966,-18.02080536
+C16_105.1_ICT_58,105.1,grey crystalline limestone,,24,6.5,NaN,-3.169153452,-17.97117805
+C16_105.1_ICT_59,105.1,grey crystalline limestone,,8,2,NaN,-8.175806046,-19.100914
+C16_105.1_ICT_60,105.1,sandy limestone,,8,2,1,-7.29624033,-19.32038116
+C16_105.1_ICT_61,105.1,grey crystalline limestone,,4,0.5,NaN,-7.363846779,-21.63972855
+C16_105.1_ICT_62,105.1,laminated grey limestone,,5,1,1,-7.270396233,-19.95841599
+C16_105.1_ICT_63,105.1,grey crystalline limestone,,3,2,1,-6.869077682,-22.11070442
+C16_105.1_ICT_64,105.1,sandy limestone,,5,1,NaN,-8.02315712,-18.53384209
+C16_105.1_ICT_66,105.1,grey crystalline limestone,,7,1.5,1,-7.045972347,-20.93879318
+C16_105.1_ICT_67,105.1,sandy limestone,,8,2,NaN,-7.928431034,-18.23027992
+C16_105.1_ICT_68,105.1,tan crystalline limestone,,5,3,2,-7.752800465,-19.94677734
+C16_105.1_ICT_69,105.1,limestone cemented sandstone,,7,4,NaN,-7.76946497,-18.06207466
+C16_105.1_ICT_70,105.1,sandy limestone,,6,2,1.5,-7.107049942,-20.82077789
+C16_105.1_ICT_72,105.1,laminated sandy limestone,,10,3,1.5,-5.996884346,-21.62447739
+C16_105.1_ICT_73,105.1,limestone cemented sandstone,,5,2,NaN,-6.993067741,-18.71595764
+C16_105.1_ICT_74,105.1,tan crystalline limestone,,5,3,2,-8.381801605,-17.83250999
+C16_105.1_ICT_75,105.1,tan crystalline limestone,,2,1,0.5,-8.172977448,-17.95808411
+C16_105.1_ICT_76,105.1,dolostone,,2,2,NaN,-7.312349319,-11.9679327
+C16_105.1_ICT_77,105.1,dolostone,,3,2,2,-3.635940552,-10.9049921
+C16_105.1_ICT_78,105.1,dolostone,,2,1,3,-5.727415085,-16.10484314
+C16_105.1_ICT_79,105.1,grey crystalline limestone,,18,4,1,-6.66225481,-20.33149338
+C16_105.1_ICT_80,105.1,tan crystalline limestone,,3,2,1,-7.139602661,-20.93325806
+C16_105.1_ICT_81,105.1,grey crystalline limestone,,1,1,0.5,-7.131355286,-23.08750153
+C16_105.1_ICT_82,105.1,grey crystalline limestone,,2,1,0.25,-6.019141674,-23.19606018
+C16_105.1_ICT_83,105.1,tan crystalline limestone,,4,3,0.25,-8.684562683,-17.56525421
+C16_105.1_ICT_84,105.1,sand rimmed limestone,,2,2,1,-9.105570793,-17.86198997
+C16_105.1_ICT_85,105.1,laminated sandy limestone,fine laminations,2,2,1,-5.236793995,-18.08431435
+C16_105.1_ICT_86,105.1,sand rimmed limestone,,2,1,2,-8.918486595,-17.1967411
+C16_105.1_ICT_87,105.1,sand rimmed limestone,,4,2,2,-10.28150749,-17.9471283
+C16_105.1_ICT_88,105.1,tan crystalline limestone,,2,2,0.5,-8.933074951,-17.07227135
+C16_105.1_ICT_89,105.1,sandy limestone,,4,2,NaN,-8.044644356,-17.62173271
+C16_105.1_ICT_90,105.1,tan crystalline limestone,,3,1.5,1,-8.950832367,-17.61545563
+C16_105.1_ICT_91,105.1,sandy limestone,,8,3,3,-2.723371983,-18.00297165
+C16_105.1_ICT_92,105.1,tan crystalline limestone,,4,3,4,-8.951974869,-18.89212418
+C16_105.1_ICT_93,105.1,tan crystalline limestone,,3,2,4,-7.935055733,-18.70436096
+C16_105.1_ICT_94,105.1,sandy grey crystalline limestone,,4,2,2,-6.961876869,-20.24790382
+C16_105.1_ICT_95,105.1,grey crystalline limestone,,2,1,2,-6.657640457,-21.66458893
+C16_105.1_ICT_96,105.1,grey crystalline limestone,,10,3,NaN,-4.477998257,-22.69465637
+C16_105.1_ICT_97,105.1,grey crystalline limestone,,16,2,NaN,-6.385931015,-18.76086044
+C16_105.1_ICT_98,105.1,tan crystalline limestone,,3,2,NaN,-8.680326462,-17.97055626
+C16_105.1_ICT_99,105.1,tan crystalline limestone,,4,1,2,-6.837164879,-22.4291153
+C16_105.1_ICT_100,105.1,tan crystalline limestone,,9,3,NaN,-6.287325859,-21.45601654
+C16_108.0_ICT_1,108,dark grey grainstone,,,,,-2.599950075,-17.994524
+C16_108.0_ICT_2,108,tan crystalline limestone,,,,,-13.1795063,-18.01564407
+C16_108.0_ICT_3,108,sandy dolostone,,,,,-6.557443142,-15.90987206
+C16_108.0_ICT_4,108,sandy dolostone,,,,,-7.142252922,-13.90861225
+C16_108.0_ICT_5,108,sandy limestone,,,,,-3.43490696,-17.90447807
+C16_108.0_ICT_6,108,dolostone,,,,,-4.211815357,-16.74839592
+C16_108.0_ICT_7,108,sandy limestone,,,,,-7.781103134,-17.19736099
+C16_108.0_ICT_8,108,grey crystalline limestone,,,,,-7.703428745,-18.3225441
+C16_108.0_ICT_9,108,grey crystalline limestone,,,,,-8.0449543,-17.95473099
+C16_108.0_ICT_10,108,limestone cemented sandstone,,,,,-7.795036793,-18.11085892
+C16_108.0_ICT_11,108,limestone cemented sandstone,,,,,-7.316988945,-18.16671371
+C16_108.0_ICT_12,108,sandy limestone,,,,,-7.168256283,-14.42960453
+C16_108.0_ICT_13,108,sandy limestone,,,,,-7.855228901,-17.06511116
+C16_108.0_ICT_14,108,grey crystalline limestone,,,,,-7.31792593,-18.4603653
+C16_108.0_ICT_15,108,sandy limestone,,,,,-6.972035408,-19.54565811
+C16_108.0_ICT_16,108,grey crystalline limestone,,,,,-7.575829506,-18.5726757
+C16_108.0_ICT_17,108,grey crystalline limestone,,,,,-7.767544746,-18.0761795
+C16_108.0_ICT_18,108,dark grey grainstone,,,,,-7.467267513,-18.431427
+C16_108.0_ICT_19,108,tan crystalline limestone,,,,,-7.199090958,-17.78862762
+C16_108.0_ICT_20,108,dolostone,,,,,0.076364994,-13.00788403
+C16_108.0_ICT_21,108,limestone cemented sandstone,,,,,-6.297574997,-19.10260391
+C16_108.0_ICT_22,108,sandy limestone,,,,,-4.681069851,-17.9071331
+C16_108.0_ICT_23,108,limestone cemented sandstone,,,,,-8.547019005,-17.80479622
+C16_108.0_ICT_24,108,grey crystalline limestone,,,,,-6.858623505,-19.67728806
+C16_108.0_ICT_25,108,grey crystalline limestone,,,,,-6.327698708,-21.8657074
+C16_108.0_ICT_26,108,sandy limestone,,,,,-6.000980854,-23.339077
+C16_108.0_ICT_27,108,sandy limestone,,,,,-6.113436699,-22.14075089
+C16_108.0_ICT_28,108,grey crystalline limestone,,,,,-6.055178642,-22.43504524
+C16_108.0_ICT_29,108,grey crystalline limestone,,,,,-6.007702827,-22.24333572
+C16_108.0_ICT_30,108,sandy limestone,,,,,-7.053929329,-17.06476021
+C16_108.0_ICT_31,108,sandy limestone,,,,,-1.833704233,-18.02342987
+C16_108.0_ICT_32,108,grey crystalline limestone,,,,,-7.438447952,-17.99064255
+C16_108.0_ICT_33,108,sandy limestone,,,,,-6.680410862,-14.25356579
+C16_108.0_ICT_34,108,grey crystalline limestone,,,,,-6.527718544,-19.61888123
+C16_108.0_ICT_35,108,sandy limestone,,,,,-5.448113441,-16.28038025
+C16_110.0_ICT_1,110,sandy limestone,,,,,-8.505914688,-17.32653427
+C16_110.0_ICT_2,110,dark grey grainstone,,,,,-7.75345993,-18.22607613
+C16_110.0_ICT_3,110,grey crystalline limestone,,,,,-2.178496361,-18.20267677
+C16_110.0_ICT_4,110,sandy limestone,,,,,-7.985643387,-17.74344444
+C16_110.0_ICT_5,110,sandy limestone,,,,,-6.629780769,-16.36494064
+C16_110.0_ICT_6,110,sandy dolostone,,,,,-6.71986866,-16.61721802
+C16_110.0_ICT_7,110,grey crystalline limestone,,,,,-8.044440269,-18.07740021
+C16_110.0_ICT_8,110,grey crystalline limestone,,,,,-8.876245499,-18.32743835
+C16_110.0_ICT_9,110,sandy limestone,,,,,-8.015924454,-18.3631897
+C16_110.0_ICT_10,110,grey crystalline limestone,,,,,-8.059309959,-18.5333252
+C16_110.0_ICT_11,110,grey crystalline limestone,,,,,-7.712846279,-18.0483036
+C16_110.0_ICT_12,110,sandy limestone,,,,,-6.588774681,-17.15621567
+C16_110.0_ICT_13,110,sandy limestone,,,,,-6.736638069,-17.11145401
+C16_110.0_ICT_14,110,sandy limestone,,,,,-7.85691309,-18.07853127
+C16_111.0_ICT_1,111,sandy limestone,,,,,-7.645605087,-18.53878403
+C16_111.0_ICT_2,111,sandy limestone,,,,,-6.599839211,-19.21372414
+C16_111.0_ICT_3,111,tan sandy limestone,,,,,-4.953502178,-16.57801819
+C16_111.0_ICT_4,111,sandy limestone,,,,,-7.090482712,-18.35610008
+C16_111.0_ICT_5,111,tan sandy limestone,,,,,-5.935267925,-16.6480217
+C16_111.0_ICT_6,111,sandy limestone,,,,,-4.388784409,-18.26225471
+C16_111.0_ICT_7,111,grey crystalline limestone,,,,,-7.728377342,-19.69872284
+C16_111.0_ICT_8,111,tan sandy limestone,,,,,-4.855582237,-17.52757645
+C16_111.0_ICT_9,111,sandy limestone,,,,,-7.982806206,-18.60428238
+C16_111.0_ICT_10,111,silty limestone,,,,,-8.308586121,-18.76777649
+C16_111.0_ICT_11,111,silty limestone,,,,,-7.253349304,-20.92621231
+C16_111.0_ICT_12,111,ls mudstone,,,,,-7.906303406,-19.2397728
+C16_111.0_ICT_13,111,limestone cemented sandstone,,,,,-7.809978962,-18.8997612
+C16_111.0_ICT_14,111,sandy limestone,,,,,-7.744503975,-19.97164536
+C16_111.0_ICT_15,111,sandy limestone,,,,,-7.922127724,-19.70783615
+C16_111.0_ICT_16,111,limestone cemented sandstone,,,,,-8.200615883,-19.28483963
+C16_111.0_ICT_17,111,tan sandy limestone,,,,,-5.999377728,-20.30560875
+C16_111.0_ICT_18,111,grey crystalline limestone,,,,,-8.294354439,-18.89090347
+C16_111.0_ICT_19,111,grey crystalline limestone,,,,,-7.663799763,-21.06690979
+C16_111.0_ICT_20,111,dark grey grainstone,,,,,-7.87802124,-20.0467453
+C16_111.0_ICT_21,111,grey crystalline limestone,,,,,-7.976626396,-18.75649834
+C16_111.0_ICT_22,111,sandy limestone,,,,,-7.953784943,-19.75197601
+C16_111.0_ICT_23,111,sandy limestone,,,,,-8.028739929,-18.99969292
+C16_111.0_ICT_24,111,dark grey grainstone,,,,,-7.939668655,-20.16358376
+C16_111.0_ICT_25,111,tan crystalline limestone,,,,,-7.282249451,-20.556633
+C16_111.0_ICT_26,111,sandy limestone,,,,,-2.338377714,-20.25999832
+C16_111.0_ICT_27,111,grey crystalline limestone,,,,,-7.699086189,-20.10523796
+C16_111.0_ICT_28,111,grey crystalline limestone,,,,,-8.228687286,-19.28107071
+C16_111.0_ICT_29,111,sandy limestone,,,,,-6.750633717,-22.42490578
+C16_111.0_ICT_30,111,dark grey grainstone,,,,,-8.020927429,-20.41248131
+C16_136.0_ICT_1,136,sandy limestone,,20,9,,0.055449486,-18.1981163
+C16_136.0_ICT_2,136,grey crystalline limestone,,15,8,,-6.266926765,-15.55035973
+C16_136.0_ICT_3,136,sandy limestone,,34,10,,-1.872446299,-18.45941353
+C16_136.0_ICT_4,136,grey crystalline limestone,,7,7,,-4.652349949,-16.55318451
+C16_136.0_ICT_5,136,grey crystalline limestone,,13,4,,-0.620068073,-18.17496681
+C16_136.0_ICT_6,136,tan crystalline limestone,,12,10,,-6.726626873,-17.55377769
+C16_136.0_ICT_7,136,sandy limestone,,25,8,,-3.234695435,-18.39104271
+C16_136.0_ICT_8,136,sandy limestone,,13,7,,2.428134918,-18.22327423
+C16_136.0_ICT_9,136,sandy limestone,,51,11,,-5.332342625,-18.17623138
+C16_136.0_ICT_10,136,sandy limestone,,14,5,,-1.294946909,-18.21626472
+C16_136.0_ICT_11,136,silty limestone,,8,6,,-1.945687056,-16.59285164
+C16_136.0_ICT_12,136,sandy limestone,,13,6,,-2.062058926,-18.04918671
+C16_136.0_ICT_13,136,ls mudstone,,10,7,,-2.461041689,-18.20179176
+C16_136.0_ICT_14,136,sandy limestone,,6,4,,-6.847757339,-18.07583618
+C16_136.0_ICT_15,136,tan crystalline limestone,,13,5,,-7.003554821,-18.30013657
+C16_136.0_ICT_16,136,silty limestone,,22,4,,-5.663838863,-18.94135284
+C16_136.0_ICT_17,136,sandy limestone,,5,5,,-5.780639648,-18.23462868
+C16_136.0_ICT_18,136,tan sandy limestone,,4,2,,-5.120261669,-16.58493423
+C16_136.0_ICT_19,136,ls mudstone,,13,5,,-5.619931698,-18.33688927
+C16_136.0_ICT_20,136,grey crystalline limestone,,6,4,,-6.249563217,-18.39875031
+C16_136.0_ICT_21,136,grey crystalline limestone,,13,4,,-0.567856312,-20.73140335
+C16_136.0_ICT_22,136,sandy limestone,,41,21,,-5.65575552,-18.37087059
+C16_136.0_ICT_23,136,dolostone,,11,4,,-2.21693635,-9.817889214
+C16_136.0_ICT_24,136,dark grey grainstone,,7,2,,-6.0197258,-19.18799973
+C16_136.0_ICT_25,136,dark grey grainstone,,22,3,,-5.495009422,-18.45277023
+C16_139.0_ICT_1,139,ls mudstone,,,,,-7.371258736,-18.39912796
+C16_139.0_ICT_2,139,ls mudstone,,,,,-8.010417938,-18.42741776
+C16_139.0_ICT_3,139,sandy limestone,,,,,3.70819521,-18.24836922
+C16_139.0_ICT_4,139,ls mudstone,,,,,-7.892132759,-18.26929855
+C16_139.0_ICT_6,139,ls mudstone,,,,,-7.505612373,-18.10637474
+C16_139.0_ICT_7,139,sandy limestone,,,,,-7.959576607,-18.48723793
+C16_139.0_ICT_8,139,tan sandy limestone,,,,,-6.23823452,-17.0896759
+C16_139.0_ICT_9,139,sandy limestone,,,,,-2.433348417,-18.02255058
+C16_139.0_ICT_10,139,sandy limestone,,,,,-7.091758728,-17.54620743
+C16_139.0_ICT_11,139,ls mudstone,,,,,-7.233823776,-18.30194855
+C16_139.0_ICT_12,139,ls mudstone,,,,,-7.016214848,-18.30070686
+C16_139.0_ICT_13,139,ls mudstone,,,,,-8.770889282,-18.12372208
+C16_139.0_ICT_14,139,ls mudstone,,,,,-7.52218771,-17.97052002
+C16_139.0_ICT_15,139,sandy limestone,,,,,-7.752232075,-18.36257553
+C16_237.0_ICT_1,237,ls mudstone,,,,,-4.073320389,-17.45853806
+C16_237.0_ICT_2,237,ls mudstone,,,,,-3.99679327,-17.47673035
+C16_237.0_ICT_3,237,ls mudstone,,,,,-3.781830788,-17.66081238
+C16_237.0_ICT_4,237,ls mudstone,,,,,-3.237579346,-17.75622559
+C16_237.0_ICT_5,237,sandy limestone,,,,,-3.484288216,-18.02344322
+C16_237.0_ICT_6,237,ls mudstone,,,,,-2.13553524,-16.98033905
+C16_237.0_ICT_7,237,ls mudstone,,,,,-3.930847168,-17.61544418
+C16_237.0_ICT_8,237,ls mudstone,,,,,-3.145158291,-17.63625717
+C16_237.0_ICT_9,237,ls mudstone,,,,,-3.579788446,-17.99872208
+C16_237.0_ICT_10,237,ls mudstone,,,,,-4.00551796,-17.61678886
+C16_237.0_ICT_11,237,ls mudstone,,,,,-3.657576084,-17.75071526
+C16_237.0_ICT_12,237,ls mudstone,,,,,-3.440957785,-17.81436348
+C16_237.0_ICT_13,237,ls mudstone,,,,,-2.944942474,-17.53700066
+C16_237.0_ICT_14,237,ls mudstone,,,,,-3.413148403,-17.62095833
+C16_253.2_ICT_1,253.2,ls mudstone,,,,,-2.444274902,-19.00426865
+C16_253.2_ICT_2,253.2,ls mudstone,,,,,-1.904628038,-17.31999207
+C16_253.2_ICT_3,253.2,ls mudstone,,,,,-1.987614155,-17.34243774
+C16_253.2_ICT_4,253.2,ls mudstone,,,,,-3.999417782,-17.23884583
+C16_256.0_ICT_1,256,dark sandy mudstone,,,,,-2.41624403,-17.96984482
+C16_256.0_ICT_2,256,dark sandy mudstone,,,,,-2.496604443,-17.92197227
+C16_256.0_ICT_3,256,silty limestone,,,,,-2.37115407,-17.6616497
+C16_256.0_ICT_4,256,ls mudstone,,,,,0.152712822,-17.50065804
+C16_256.0_ICT_5,256,ls mudstone,,,,,-2.710836649,-17.56180382
+C16_256.0_ICT_6,256,sandy limestone,,,,,-2.144819498,-17.61069489
+C16_256.0_ICT_7,256,ls mudstone,,,,,-2.007535696,-17.40606308
+C16_256.0_ICT_8,256,limestone cemented sandstone,,,,,-2.468104839,-17.53355598
+C16_256.0_ICT_9,256,limestone cemented sandstone,,,,,-2.096251488,-17.4402256
+C16_256.0_ICT_10,256,ls mudstone,,,,,-2.897310495,-17.36597252
+C16_256.0_ICT_11,256,ls mudstone,,,,,-3.378768682,-17.18333435
+C16_256.0_ICT_12,256,limestone cemented sandstone,,,,,-2.28482604,-17.3785553
+C16_256.0_ICT_13,256,ls mudstone,,,,,-3.65697813,-17.2730999
+C16_256.0_ICT_14,256,ls mudstone,,,,,-2.75619936,-17.22624016
+C16_256.0_ICT_15,256,ls mudstone,,,,,-1.968996048,-17.41391754
+C16_256.0_ICT_16,256,ls mudstone,,,,,-3.804110527,-17.23978806
+C16_256.0_ICT_17,256,ls mudstone,,,,,-2.843325138,-17.28587151
+C16_256.0_ICT_18,256,ls mudstone,,,,,-3.351681232,-17.23190117
+C16_256.0_ICT_19,256,ls mudstone,,,,,-2.723950624,-17.41588593
+C16_256.0_ICT_20,256,ls mudstone,,,,,-2.99519825,-17.59392166
+C16_256.0_ICT_21,256,ls mudstone sandy interbeds,,,,,-2.628223658,-17.84808159
+C16_256.0_ICT_22,256,ls mudstone,,,,,-2.344837666,-17.62722778

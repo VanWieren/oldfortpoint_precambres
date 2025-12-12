@@ -1,0 +1,14 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb,inverted_height_diff,inverted_height
+12.4,siliciclastic,rippled siltstone[red grainstone],,ripples,C1_195.2,195.2,grey crystalline limestone,,-7.466440201,-15.7895174,17.0999,195.1499
+4,siliciclastic,siltstone[red grainstone],,,C1_196.0,196,grey crystalline limestone,,-7.986110687,-15.98182583,16.2999,194.3499
+4.9,siliciclastic,siltstone[red grainstone],FUS,,C1_197.0,197,grey crystalline limestone,sulfides,-8.028917313,-15.95193386,15.2999,193.3499
+2.2,siliciclastic,black shale[authigenic carbonate nodules],,authigenic nodules,C1_198.0,198,grey crystalline limestone,,-8.231097221,-15.90057278,14.2999,192.3499
+2.4,limestone,carbonate breccia,,,C1_199.0,199,sandy grey crystalline limestone,,-9.147789001,-15.80902958,13.2999,191.3499
+8.35,siliciclastic,siltstone[red grainstone],,,C1_200.0,200,sandy pink crystalline limestone,,-9.405069351,-15.94213581,12.2999,190.3499
+,,,,,C1_201.0,201,sandy pink crystalline limestone,,-9.782505035,-15.9234333,11.2999,189.3499
+,,,,,C1_202.0,202,sandy pink crystalline limestone,,-10.16243553,-16.02237892,10.2999,188.3499
+,,,,,C1_203.0,203,sandy pink crystalline limestone,,-10.30667877,-16.05678558,9.2999,187.3499
+,,,,,C1_204.5,204.5,dolostone,,-11.01429558,-15.52980137,7.7999,185.8499
+,,,,,C1_207.0,207,sandy grainstone,,-11.15846443,-15.08835316,5.2999,183.3499
+,,,,,C1_208.0,208,sandy grainstone,,-11.20238018,-14.45842552,4.2999,182.3499
+,,,,,C1_209.0,209,sandy grainstone,,-11.09310722,-14.80795479,3.2999,181.3499

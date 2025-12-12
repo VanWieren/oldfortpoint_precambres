@@ -1,0 +1,284 @@
+sample_name,sample_height,sample_facies,sample_features,clast_len_cm,clast_width_cm,d13c_carb,d18o_carb
+C12_5.6_ICT_1,5.6,dolostone,,NA,NA,-9.309394836,-11.64889336
+C12_5.6_ICT_2,5.6,dolostone,,NA,NA,-10.49219894,-10.88046741
+C12_5.6_ICT_3,5.6,dolostone,,NA,NA,-9.68488884,-11.69941235
+C12_5.6_ICT_4,5.6,dolostone,,NA,NA,-9.885685921,-11.0183115
+C12_5.6_ICT_5,5.6,dolostone,,NA,NA,-9.533220291,-11.3757534
+C12_5.6_ICT_6,5.6,dolostone,,NA,NA,-9.862098694,-11.29968262
+C12_5.6_ICT_7,5.6,dolostone,,NA,NA,-8.908089638,-11.66450691
+C12_5.6_ICT_8,5.6,dolostone,,NA,NA,-10.21995354,-10.91721344
+C12_5.6_ICT_9,5.6,dolostone,,NA,NA,-7.105571747,-8.014245987
+C12_5.6_ICT_10,5.6,dolostone,,NA,NA,-10.0907383,-11.63936329
+C12_5.6_ICT_11,5.6,dolostone,,NA,NA,-9.834056854,-11.49101734
+C12_5.6_ICT_12,5.6,dolostone,,NA,NA,-9.401304245,-11.95186806
+C12_5.6_ICT_13,5.6,dolostone,,NA,NA,-10.32590675,-10.64573288
+C12_5.6_ICT_14,5.6,dolostone,,NA,NA,-9.087924004,-12.30061245
+C12_5.6_ICT_15,5.6,dolostone,,NA,NA,-9.481122971,-12.66583347
+C12_5.6_ICT_16,5.6,dolostone,,NA,NA,-9.876079559,-11.91177845
+C12_5.6_ICT_17,5.6,dolostone,,NA,NA,-8.718800545,-12.03236485
+C12_5.6_ICT_18,5.6,dolostone,,NA,NA,-10.40757656,-11.77446175
+C12_5.6_ICT_19,5.6,dolostone,,NA,NA,-9.660661697,-11.77504921
+C12_5.6_ICT_20,5.6,dolostone,,NA,NA,-10.2258873,-11.64845276
+C12_5.6_ICT_21,5.6,dolostone,,NA,NA,-9.046142578,-13.48338795
+C12_5.6_ICT_22,5.6,dolostone,,NA,NA,-9.801198959,-11.56444645
+C12_5.6_ICT_23,5.6,dolostone,,NA,NA,-10.27147865,-11.29872704
+C12_5.6_ICT_24,5.6,dolostone,,NA,NA,-10.35284615,-11.37290192
+C12_5.6_ICT_25,5.6,dolostone,,NA,NA,-9.669401169,-11.5822382
+C12_5.6_ICT_26,5.6,dolostone,,NA,NA,-8.147435188,-12.41636276
+C12_5.6_ICT_27,5.6,dolostone,,NA,NA,-10.05774498,-11.53036594
+C12_5.6_ICT_28,5.6,dolostone,,NA,NA,-8.303295135,-11.52767944
+C12_5.6_ICT_29,5.6,dolostone,,NA,NA,-10.36664963,-11.0442524
+C12_5.6_ICT_30,5.6,dolostone,,NA,NA,-9.52422905,-12.02832699
+C12_5.6_ICT_31,5.6,dolostone,,NA,NA,-10.62072563,-11.01299763
+C12_5.6_ICT_32,5.6,dolostone,,NA,NA,-10.64975929,-11.2386322
+C12_5.6_ICT_33,5.6,dolostone,,NA,NA,-10.10931778,-8.012815475
+C12_5.6_ICT_34,5.6,dolostone,,NA,NA,-9.577118874,-11.52682018
+C12_5.6_ICT_35,5.6,dolostone,,NA,NA,-9.443351746,-11.97521114
+C12_5.6_ICT_36,5.6,dolostone,,NA,NA,-10.2965889,-11.50068092
+C12_5.6_ICT_37,5.6,dolostone,,NA,NA,-9.258785248,-11.8653965
+C12_5.6_ICT_38,5.6,dolostone,,NA,NA,-9.207598686,-11.83001804
+C12_5.6_ICT_39,5.6,dolostone,,NA,NA,-10.14403915,-11.39277649
+C12_5.6_ICT_40,5.6,dolostone,,NA,NA,-9.455266953,-12.21127129
+C12_8.6_ICT_1,8.6,dolostone,,NA,NA,-10.60246658,-11.43798923
+C12_8.6_ICT_2,8.6,dolostone,,NA,NA,-11.10736656,-10.93969631
+C12_8.6_ICT_3,8.6,dolostone,,NA,NA,-8.866458893,-11.62655067
+C12_8.6_ICT_4,8.6,dolostone,,NA,NA,-9.793198586,-11.70900726
+C12_8.6_ICT_5,8.6,dolostone,,NA,NA,-9.571931839,-11.6150322
+C12_8.6_ICT_6,8.6,dolostone,,NA,NA,-9.95403862,-11.67818356
+C12_8.6_ICT_7,8.6,dolostone,,NA,NA,-10.35890007,-11.54586506
+C12_8.6_ICT_8,8.6,dolostone,,NA,NA,-9.496154785,-11.40193748
+C12_8.6_ICT_9,8.6,dolostone,,NA,NA,-9.537658691,-12.57666016
+C12_8.6_ICT_10,8.6,dolostone,,NA,NA,-9.447629929,-11.11203766
+C12_8.6_ICT_11,8.6,dolostone,,NA,NA,-10.33435345,-11.255126
+C12_8.6_ICT_12,8.6,dolostone,,NA,NA,-10.12566853,-11.76018906
+C12_8.6_ICT_13,8.6,dolostone,,NA,NA,-10.37663841,-11.61801052
+C12_8.6_ICT_14,8.6,dolostone,,NA,NA,-9.913434029,-11.58710575
+C12_8.6_ICT_15,8.6,dolostone,,NA,NA,-10.57940865,-11.16019154
+C12_8.6_ICT_16,8.6,dolostone,,NA,NA,-10.00036907,-11.45189095
+C12_8.6_ICT_17,8.6,dolostone,,NA,NA,-9.760247231,-11.87614632
+C12_8.6_ICT_18,8.6,dolostone,,NA,NA,-9.566171646,-11.96961308
+C12_8.6_ICT_19,8.6,dolostone,,NA,NA,-10.22537231,-11.2500639
+C12_8.6_ICT_20,8.6,dolostone,,NA,NA,-10.23853111,-11.03482342
+C12_8.6_ICT_21,8.6,dolostone,,NA,NA,-11.02775192,-11.77534199
+C12_8.6_ICT_22,8.6,dolostone,,NA,NA,-9.954748154,-11.64482784
+C12_8.6_ICT_23,8.6,dolostone,,NA,NA,-9.733606339,-11.81264877
+C12_8.6_ICT_24,8.6,dolostone,,NA,NA,-9.69799614,-11.68884659
+C12_8.6_ICT_25,8.6,dolostone,,NA,NA,-10.00655746,-11.33335304
+C12_8.6_ICT_26,8.6,dolostone,,NA,NA,-10.35666943,-11.15717793
+C12_8.6_ICT_27,8.6,dolostone,,NA,NA,-9.655385971,-12.06899166
+C12_8.6_ICT_28,8.6,dolostone,,NA,NA,-8.987241745,-11.42345715
+C12_8.6_ICT_29,8.6,dolostone,,NA,NA,-9.818378448,-11.60278034
+C12_8.6_ICT_30,8.6,dolostone,,NA,NA,-9.569132805,-11.27642059
+C12_11.6_ICT_1,11.6,dolostone,,NA,NA,-8.897809982,-11.18254375
+C12_11.6_ICT_2,11.6,dolostone,,NA,NA,-8.505973816,-11.17313385
+C12_11.6_ICT_3,11.6,dolostone,,NA,NA,-8.877178192,-11.50768566
+C12_11.6_ICT_4,11.6,dolostone,,NA,NA,-8.843421936,-11.66735363
+C12_11.6_ICT_5,11.6,dolostone,,NA,NA,-8.882310867,-11.97493267
+C12_11.6_ICT_6,11.6,dolostone,,NA,NA,-6.830685139,-12.41610527
+C12_11.6_ICT_7,11.6,dolostone,,NA,NA,-7.846792221,-11.72896385
+C12_11.6_ICT_8,11.6,dolostone,,NA,NA,-8.482397079,-12.1352663
+C12_11.6_ICT_9,11.6,dolostone,,NA,NA,-8.705075264,-11.29502392
+C12_11.6_ICT_10,11.6,dolostone,,NA,NA,-8.308103561,-11.48587418
+C12_12.0_ICT_1,12,dolostone,,24,3,-8.056838989,-12.18226719
+C12_12.0_ICT_2,12,dolostone,,19,2,-9.550555229,-9.943829536
+C12_12.0_ICT_3,12,dolostone,,30,1,-9.838967323,-9.393478394
+C12_12.0_ICT_4,12,sandy limestone,,10,2,-9.069635391,-10.09078884
+C12_12.0_ICT_5,12,dolostone,,10,3,-9.297867775,-10.59393883
+C12_12.0_ICT_6,12,dolostone,,23,4,-9.412647247,-10.2755928
+C12_12.0_ICT_7,12,sandy limestone,,50,8,-8.014561653,-10.70736027
+C12_12.0_ICT_8,12,dolostone,,15,3,-9.433393478,-8.97939682
+C12_12.0_ICT_9,12,sandy limestone,,11,1,-10.51970482,-10.70822906
+C12_12.0_ICT_10,12,dolostone,,14,9,-8.353652,-11.26432419
+C12_12.0_ICT_11,12,dolostone,,15,10,-7.514333725,-12.44953537
+C12_12.0_ICT_12,12,dolostone,,31,11,-8.885503769,-12.89101315
+C12_12.0_ICT_13,12,sandy limestone,,14,6,-9.410447121,-11.83570004
+C12_12.0_ICT_14,12,sandy limestone,,15,3,-8.55538559,-10.68667984
+C12_12.0_ICT_15,12,sandy limestone,,9,4,-9.686532021,-11.84472561
+C12_12.0_ICT_16,12,dolostone,,14,8,-8.019428253,-11.53742123
+C12_12.0_ICT_17,12,dolostone,,7,7,-8.425287247,-11.05315208
+C12_12.0_ICT_18,12,dolostone,,8,5,-6.488633156,-14.80958557
+C12_12.0_ICT_19,12,sandy limestone,,20,18,-6.821077824,-14.46487904
+C12_12.0_ICT_20,12,sandy limestone,,14,3,-8.083854675,-13.03569221
+C12_12.0_ICT_21,12,sandy limestone,,11,5,-9.176574707,-11.74244308
+C12_12.0_ICT_22,12,sandy limestone,,5,1,-8.283602715,-12.19828606
+C12_12.0_ICT_23,12,sandy limestone,,8,2,-7.979183197,-13.16843796
+C12_12.0_ICT_24,12,dolostone,,10,3,-8.915728569,-12.80505085
+C12_12.0_ICT_25,12,dolostone,,15,4,-8.969257355,-12.93308735
+C12_12.0_ICT_26,12,grey crystalline limestone,,14,7,-10.478652,-15.03802776
+C12_12.0_ICT_27,12,sandy limestone,,7,3,-7.397670746,-12.91650867
+C12_12.0_ICT_28,12,sandy limestone,,12,1,-8.682936668,-12.99001598
+C12_12.0_ICT_29,12,dolostone,,4,3,-7.598874569,-12.67978764
+C12_12.0_ICT_30,12,sandy limestone,,11,1,-8.265913963,-13.74649239
+C12_12.0_ICT_31,12,sandy limestone,,5,1,-8.637388229,-13.1777401
+C12_12.0_ICT_33,12,sandy limestone,,5,4,-10.28108311,-11.37586403
+C12_12.0_ICT_34,12,sandy limestone,,3,2,-9.675692558,-12.65986919
+C12_12.0_ICT_35,12,sandy limestone,,6,4,-9.694012642,-12.50498581
+C12_12.0_ICT_36,12,sandy limestone,,10,5,-9.71754837,-12.24278927
+C12_12.0_ICT_37,12,sandy limestone,,5,2,-8.217720985,-13.73330593
+C12_12.0_ICT_38,12,sandy limestone,,7,4,-8.103729248,-11.30106163
+C12_12.0_ICT_39,12,sandy limestone,,30,3,-8.974885941,-11.32023621
+C12_17.0_ICT_1,17,pink crystalline limestone,,9,3,-11.27457619,-15.10185242
+C12_17.0_ICT_2,17,grey crystalline limestone,,7,4,-9.282266617,-15.13155174
+C12_17.0_ICT_3,17,grey crystalline limestone,,9,5,-9.596597672,-15.23325539
+C12_17.0_ICT_4,17,pink crystalline limestone,,7,5,-9.825070381,-14.96509838
+C12_17.0_ICT_5,17,pink crystalline limestone,,6,6,-10.09251499,-15.04589176
+C12_17.0_ICT_6,17,green and pink crystalline limestone,,3,4,-10.68355751,-15.49561405
+C12_17.0_ICT_7,17,grey crystalline limestone,,4,2,-9.747652054,-15.78350163
+C12_17.0_ICT_8,17,green and pink crystalline limestone,,5,2,-10.42638779,-14.73960209
+C12_17.0_ICT_9,17,grey crystalline limestone,,7,3,-10.04207993,-15.16619873
+C12_17.0_ICT_10,17,grey crystalline limestone,,4,2,-9.129892349,-15.13338661
+C12_17.0_ICT_11,17,dolostone,,7,4,-8.474218369,-8.98462677
+C12_17.0_ICT_12,17,pink crystalline limestone,,3,2,-9.86504364,-15.17343426
+C12_17.0_ICT_13,17,sandy grey crystalline limestone,,7,4,-9.956486702,-15.06296921
+C12_17.0_ICT_14,17,sandy grey crystalline limestone,,6,3,-10.03061104,-15.34736919
+C12_17.0_ICT_15,17,sandy grey crystalline limestone,,14,1,-9.631996155,-15.08748531
+C12_17.0_ICT_16,17,grey laminated crystalline limestone,,5,2,-9.852567673,-15.46722794
+C12_17.0_ICT_17,17,green and grey crystalline limestone,,5,1,-9.867265701,-15.05130959
+C12_17.0_ICT_18,17,grey crystalline limestone,,3,1,-9.663425446,-15.5239315
+C12_17.0_ICT_19,17,sandy grey crystalline limestone,,9,3,-9.446253777,-15.4034481
+C12_17.0_ICT_20,17,grey crystalline limestone,,4,1,-9.498884201,-15.55683422
+C12_17.0_ICT_21,17,grey crystalline limestone,,6,6,-9.682786942,-15.16727924
+C12_17.0_ICT_22,17,sandy grey crystalline limestone,,3,2,-9.388388634,-15.33666134
+C12_17.0_ICT_23,17,sandy grey crystalline limestone,,5,3,-10.47580051,-15.24065304
+C12_17.0_ICT_24,17,grey crystalline limestone,,15,1,-10.21761703,-15.00589752
+C12_17.0_ICT_25,17,grey crystalline limestone,,8,1,-9.508496284,-15.20248699
+C12_17.0_ICT_26,17,sandy grey crystalline limestone,,5,1,-9.41916275,-14.86608505
+C12_17.0_ICT_27,17,sandy grey crystalline limestone,,8,3,-9.914100647,-15.12463951
+C12_17.0_ICT_28,17,sandy grey crystalline limestone,,3,2,-9.538801193,-15.00699234
+C12_17.0_ICT_29,17,grey crystalline limestone,,6,5,-9.767830849,-14.73339653
+C12_17.0_ICT_30,17,grey crystalline limestone,,6,4,-9.728876114,-15.20206165
+C12_17.0_ICT_31,17,sandy grey crystalline limestone,,9,4,-9.58385849,-14.92345333
+C12_17.0_ICT_32,17,grey crystalline limestone,,9,3,-9.828448296,-14.69699764
+C12_17.0_ICT_33,17,grey crystalline limestone,,5,2,-9.665952682,-15.07371998
+C12_17.0_ICT_34,17,grey crystalline limestone,,5,2,-9.83682251,-14.95411587
+C12_17.0_ICT_35,17,grey laminated crystalline limestone,,5,1,-9.096073151,-15.13144779
+C12_17.0_ICT_36,17,grey laminated crystalline limestone,,3,1,-9.555995941,-15.03464127
+C12_17.0_ICT_37,17,green and pink crystalline limestone,,3,2,-10.51052856,-14.88373661
+C12_17.0_ICT_38,17,grey laminated crystalline limestone,,6,1,-9.833856583,-15.20281887
+C12_17.0_ICT_39,17,sandy grey crystalline limestone,,4,3,-10.05997849,-14.88672543
+C12_17.0_ICT_40,17,grey crystalline limestone,,4,2,-9.966394424,-15.4357481
+C12_17.0_ICT_41,17,grey crystalline limestone,,6,4,-10.14141941,-15.151227
+C12_17.0_ICT_42,17,grey laminated crystalline limestone,,3,2,-9.897480965,-15.19003773
+C12_17.0_ICT_43,17,grey crystalline limestone,,7,2,-10.0725832,-15.17312527
+C12_17.0_ICT_44,17,grey crystalline limestone,,4,1,-9.752173424,-15.00545502
+C12_17.0_ICT_45,17,grey crystalline limestone,,5,4,-11.71491623,-15.06578636
+C12_17.0_ICT_46,17,grey crystalline limestone,,3,3,-9.88146019,-14.50225353
+C12_17.0_ICT_47,17,sandy grey crystalline limestone,,3,1,-9.241258621,-15.17133617
+C12_17.0_ICT_48,17,sandy grey crystalline limestone,,6,3,-9.531469345,-14.9052763
+C12_17.0_ICT_49,17,sandy grey crystalline limestone,,3,2,-9.47413826,-15.08410835
+C12_17.0_ICT_50,17,grey crystalline limestone,,7,3,-9.937150955,-14.77571869
+C12_17.0_ICT_51,17,grey crystalline limestone,,5,3,-10.01613617,-15.06445694
+C12_17.0_ICT_52,17,grey crystalline limestone,,9,1,-10.00271988,-14.98563957
+C12_17.0_ICT_53,17,sandy grey crystalline limestone,,3,2,-9.660736084,-15.2101841
+C12_17.0_ICT_54,17,grey laminated crystalline limestone,,5,1,-9.613182068,-15.0122633
+C12_17.0_ICT_55,17,sandy grey crystalline limestone,,3,2,-9.512308121,-15.08306503
+C12_17.0_ICT_56,17,sandy grey crystalline limestone,,6,2,-9.861404419,-14.76546574
+C12_17.0_ICT_57,17,grey crystalline limestone,,8,3,-9.371006012,-15.03286171
+C12_17.0_ICT_58,17,grey crystalline limestone,,3,2,-9.547286987,-15.08920574
+C12_17.0_ICT_59,17,grey crystalline limestone,,3,2,-9.819726944,-15.27053261
+C12_17.0_ICT_60,17,grey crystalline limestone,,2,0.5,-10.01201057,-15.34260368
+C12_17.0_ICT_61,17,grey crystalline limestone,,5,2,-9.919126511,-15.00613213
+C12_17.0_ICT_62,17,grey crystalline limestone,,8,3,-10.05743027,-15.29336071
+C12_17.0_ICT_63,17,grey crystalline limestone,,6,3,-10.09194183,-15.25310516
+C12_17.0_ICT_64,17,grey laminated crystalline limestone,,2,2,-9.658766747,-15.53968239
+C12_17.0_ICT_65,17,grey crystalline limestone,,8,3,-10.23742485,-15.22039795
+C12_17.0_ICT_66,17,grey crystalline limestone,,10,3,-10.24785042,-14.91375637
+C12_17.0_ICT_67,17,grey crystalline limestone,,5,2,-9.633079529,-15.6459589
+C12_17.0_ICT_68,17,pink and grey laminated crystalline limestone,,10,5,-9.921329498,-14.96872902
+C12_17.0_ICT_69,17,grey laminated crystalline limestone,,3,2,-9.347953796,-15.02589512
+C12_17.0_ICT_70,17,grey laminated crystalline limestone,,15,3,-9.779998779,-15.06889153
+C12_17.0_ICT_71,17,grey crystalline limestone,,5,1,-9.974380493,-14.87696934
+C12_17.0_ICT_72,17,pink crystalline limestone,,5,1,-10.68362427,-14.8679657
+C12_17.0_ICT_73,17,pink and grey laminated crystalline limestone,,5,4,-10.42427063,-15.27344513
+C12_17.0_ICT_74,17,sandy grey crystalline limestone,,3,2,-9.28421402,-15.36845112
+C12_17.0_ICT_75,17,grey crystalline limestone,,4,2,-9.960342407,-15.12979794
+C12_17.0_ICT_76,17,sandy grey crystalline limestone,,3,2,-9.940786362,-14.92279625
+C12_17.0_ICT_77,17,sandy grey crystalline limestone,,6,2,-10.52878952,-14.62964725
+C12_17.0_ICT_78,17,grey crystalline limestone,,10,3,-9.856218338,-15.42438602
+C12_17.0_ICT_79,17,grey laminated crystalline limestone,,6,2,-9.904232025,-15.35226345
+C12_17.0_ICT_80,17,sandy grey crystalline limestone,,10,5,-9.724025726,-14.92435265
+C12_17.0_ICT_81,17,pink laminated crystalline limestone,,8,5,-9.839448929,-14.78382111
+C12_17.0_ICT_82,17,pink crystalline limestone,,4,3,-10.10442638,-15.19196987
+C12_17.0_ICT_83,17,grey crystalline limestone,,6,3,-10.34463024,-14.98340893
+C12_17.0_ICT_84,17,pink and grey laminated crystalline limestone,,4,3,-9.911032677,-15.16694832
+C12_17.0_ICT_85,17,grey crystalline limestone,,7,6,-10.0498991,-15.23671246
+C12_17.0_ICT_86,17,grey crystalline limestone,,4,1,-10.86982727,-15.18829441
+C12_17.0_ICT_87,17,grey crystalline limestone,,5,3,-9.878932953,-15.03286171
+C12_17.0_ICT_88,17,grey crystalline limestone,,3,1,-10.24214935,-15.05359745
+C12_17.0_ICT_89,17,grey crystalline limestone,,4,2,-9.503808975,-15.14087963
+C12_17.0_ICT_90,17,grey crystalline limestone,,4,2,-9.405174255,-15.07752228
+C12_17.0_ICT_91,17,grey crystalline limestone,,5,1,-9.564025879,-15.05916977
+C12_17.0_ICT_92,17,sandy grey crystalline limestone,,4,2,-9.789638519,-14.92031097
+C12_17.0_ICT_93,17,sandy grey crystalline limestone,,11,3,-10.19332314,-15.11757278
+C12_17.0_ICT_94,17,grey crystalline limestone,,12,2,-9.904150009,-14.87574387
+C12_17.0_ICT_95,17,grey crystalline limestone,,5,1,-9.641389847,-14.96531963
+C12_17.0_ICT_96,17,sandy grey crystalline limestone,,6,5,-10.45260715,-15.2410202
+C12_17.0_ICT_97,17,sandy grey crystalline limestone,,4,1,-10.24382973,-14.01141739
+C12_17.0_ICT_98,17,sandy grey crystalline limestone,,10,2,-9.40687561,-15.08696651
+C12_17.0_ICT_99,17,grey crystalline limestone,,3,2,-10.82973099,-15.10147667
+C12_17.0_ICT_100,17,grey laminated crystalline limestone,,8,2,-9.740447998,-14.98143673
+C12_65.0_ICT_1,65,pink crystalline limestone,,4,2,-8.761826515,-14.68279457
+C12_65.0_ICT_2,65,pink laminated crystalline limestone,,7,2,-8.694215775,-15.02439499
+C12_65.0_ICT_3,65,pink laminated crystalline limestone,,3,2,-9.546285629,-14.73092842
+C12_65.0_ICT_4,65,pink laminated crystalline limestone,,9,6,-9.134699821,-14.67751408
+C12_65.0_ICT_5,65,pink laminated crystalline limestone,,8,1,-8.794775009,-14.64724636
+C12_65.0_ICT_6,65,pink laminated crystalline limestone,,6,3,-9.301332474,-14.5864048
+C12_65.0_ICT_7,65,pink laminated crystalline limestone,,10,2,-8.704936028,-15.24389839
+C12_65.0_ICT_8,65,pink laminated crystalline limestone,,20,3,-8.693580627,-15.02876377
+C12_65.0_ICT_9,65,pink laminated crystalline limestone,,17,5,-8.939723015,-14.34843826
+C12_65.0_ICT_10,65,pink laminated crystalline limestone,,12,3,-8.669792175,-14.78762722
+C12_65.0_ICT_11,65,pink laminated crystalline limestone,,NA,NA,-8.471199036,-14.66122341
+C12_65.0_ICT_12,65,pink laminated crystalline limestone,,NA,NA,-9.2072649,-14.6768446
+C12_65.0_ICT_13,65,pink laminated crystalline limestone,,NA,NA,-8.612203598,-14.63952351
+C12_65.0_ICT_14,65,pink laminated crystalline limestone,,NA,NA,-8.563605309,-14.58200455
+C12_65.0_ICT_15,65,pink laminated crystalline limestone,,NA,NA,-9.051298141,-14.84517288
+C12_67.0_ICT_1,67,pink laminated crystalline limestone,,4,1,-9.226810455,-14.88793087
+C12_67.0_ICT_2,67,pink laminated crystalline limestone,,7,2.5,-9.138870239,-14.83153152
+C12_67.0_ICT_3,67,pink laminated crystalline limestone,,NA,NA,-8.512234688,-15.00468349
+C12_67.0_ICT_4,67,pink laminated crystalline limestone,,NA,NA,-8.930751801,-14.57963562
+C12_67.0_ICT_5,67,pink laminated crystalline limestone,,NA,NA,-8.960193634,-14.91567612
+C12_67.0_ICT_6,67,pink laminated crystalline limestone,,NA,NA,-9.619817734,-14.84732533
+C12_67.0_ICT_7,67,pink laminated crystalline limestone,,NA,NA,-9.45847702,-14.77819538
+C12_67.0_ICT_8,67,pink laminated crystalline limestone,,NA,NA,-9.185243607,-15.03124332
+C12_67.0_ICT_9,67,pink laminated crystalline limestone,,NA,NA,-8.59393692,-14.96683884
+C12_67.0_ICT_10,67,pink laminated crystalline limestone,,NA,NA,-8.950544357,-15.13096619
+C12_67.0_ICT_11,67,pink laminated crystalline limestone,,NA,NA,-9.108020782,-15.0429697
+C12_67.0_ICT_12,67,pink laminated crystalline limestone,,NA,NA,-9.240882874,-15.21921921
+C12_67.0_ICT_13,67,pink laminated crystalline limestone,,NA,NA,-9.687005997,-14.89878464
+C12_67.0_ICT_14,67,pink laminated crystalline limestone,,NA,NA,-9.182952881,-14.87120914
+C12_67.0_ICT_15,67,pink laminated crystalline limestone,,NA,NA,-9.290429115,-14.97581768
+C12_67.0_ICT_16,67,pink laminated crystalline limestone,,NA,NA,-9.027017593,-15.25536823
+C12_67.0_ICT_17,67,pink laminated crystalline limestone,,NA,NA,-9.311408997,-15.28125286
+C12_67.0_ICT_18,67,pink laminated crystalline limestone,,NA,NA,-9.645112991,-15.17187405
+C12_67.0_ICT_19,67,pink laminated crystalline limestone,,NA,NA,-9.437279701,-15.27687645
+C12_67.0_ICT_20,67,pink laminated crystalline limestone,,NA,NA,-9.139757156,-15.12206173
+C12_67.0_ICT_21,67,pink laminated crystalline limestone,,NA,NA,-8.803505898,-14.75998306
+C12_67.0_ICT_22,67,pink laminated crystalline limestone,,NA,NA,-9.236516953,-14.40095901
+C12_67.0_ICT_23,67,pink laminated crystalline limestone,,NA,NA,-9.587784767,-14.83366394
+C12_67.0_ICT_24,67,pink laminated crystalline limestone,,NA,NA,-9.30199337,-14.90512276
+C12_67.0_ICT_25,67,pink laminated crystalline limestone,,NA,NA,-9.483856201,-14.88166618
+C12_70.0_ICT_1,70,pink crystalline limestone,,NA,NA,-9.086294174,-14.97454834
+C12_70.0_ICT_2,70,pink crystalline limestone,,NA,NA,-9.11542511,-14.99691963
+C12_70.0_ICT_3,70,pink crystalline limestone,,NA,NA,-9.324119568,-14.9666853
+C12_70.0_ICT_4,70,pink crystalline limestone,,NA,NA,-8.990869522,-14.94666767
+C12_70.0_ICT_5,70,pink crystalline limestone,,NA,NA,-9.491481781,-15.23504925
+C12_70.0_ICT_6,70,pink crystalline limestone,,NA,NA,-9.010566711,-15.10665035
+C12_70.0_ICT_7,70,pink crystalline limestone,,NA,NA,-9.467363358,-14.9721365
+C12_70.0_ICT_8,70,pink crystalline limestone,,NA,NA,-10.03999901,-14.88585758
+C12_70.0_ICT_9,70,pink crystalline limestone,,NA,NA,-8.976530075,-15.03495979
+C12_70.0_ICT_10,70,pink crystalline limestone,,NA,NA,-9.309007645,-14.86213207
+C12_70.0_ICT_11,70,pink crystalline limestone,,NA,NA,-9.066522598,-14.88284206
+C12_70.0_ICT_12,70,pink crystalline limestone,,NA,NA,-10.015028,-15.3510561
+C12_70.0_ICT_13,70,pink crystalline limestone,,NA,NA,-9.401185036,-14.94122219
+C12_70.0_ICT_14,70,pink crystalline limestone,,NA,NA,-10.14382839,-14.98209572
+C12_70.0_ICT_15,70,pink crystalline limestone,,NA,NA,-9.191836357,-15.20839024
+C12_70.0_ICT_16,70,pink crystalline limestone,,NA,NA,-9.089471817,-14.89547634
+C12_70.0_ICT_17,70,pink crystalline limestone,,NA,NA,-9.674787521,-14.97533131
+C12_70.0_ICT_18,70,pink crystalline limestone,,NA,NA,-9.298974991,-15.02655411
+C12_70.0_ICT_19,70,pink crystalline limestone,,NA,NA,-8.956892014,-14.91298199
+C12_70.0_ICT_20,70,pink crystalline limestone,,NA,NA,-9.620279312,-15.04650211
+C12_70.0_ICT_21,70,pink crystalline limestone,,NA,NA,-10.59713936,-15.06550121
+C12_70.0_ICT_22,70,pink crystalline limestone,,NA,NA,-9.908418655,-15.03671455
+C12_70.0_ICT_23,70,pink crystalline limestone,,NA,NA,-9.207263947,-15.04765797
+C12_70.0_ICT_24,70,pink crystalline limestone,,NA,NA,-9.404315948,-15.07590866
+C12_70.0_ICT_25,70,pink crystalline limestone,,NA,NA,-8.875367165,-15.30610561

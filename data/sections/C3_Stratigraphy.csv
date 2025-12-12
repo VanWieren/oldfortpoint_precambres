@@ -1,0 +1,25 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+13,limestone,silty limestone[grainstone],,,C3_0.0,0,sandy grainstone,,-10.23222542,-16.173069
+5.4,cover,cover,,,C3_1.0,1,sandy grainstone,,-10.73711109,-15.3083849
+4.7,limestone,silty limestone[grainstone],CUS,,C3_2.0,2,sandy grainstone,,-10.9544239,-14.67012501
+,,,,,C3_2.7,2.7,sandy grainstone,,-10.31482315,-15.93330956
+,,,,,C3_3.7,3.7,sandy grainstone,,-9.768551826,-16.2354641
+,,,,,C3_4.7,4.7,sandy grainstone,,-10.04157543,-15.99763012
+,,,,,C3_5.0,5,sandy crystalline limestone,,-9.682067871,-15.65914917
+,,,,,C3_5.7,5.7,sandy pink crystalline limestone,,-9.598297119,-15.40947437
+,,,,,C3_6.4,6.4,sandy grainstone,,-9.765411377,-15.72076893
+,,,,,C3_7.0,7,sandy grainstone,,-9.799118042,-16.05093765
+,,,,,C3_7.7,7.7,sandy grainstone,,-9.575378418,-16.11741829
+,,,,,C3_10.0,10,sandy green crystalline limestone,,-9.631971359,-15.64709663
+,,,,,C3_11.0,11,sandy grainstone,,-8.983100891,-15.59103489
+,,,,,C3_12.0,12,sandy grainstone,,-9.112164497,-15.73012733
+,,,,,C3_13.0,13,sandy pink crystalline limestone,,-8.792297363,-15.49883842
+,,,,,C3_18.4,18.4,sandy green crystalline limestone,,-8.816198349,-15.86826229
+,,,,,C3_19.5,19.5,grey crystalline limestone,,-8.2865839,-16.03286171
+,,,,,C3_20.0,20,grey crystalline limestone,,-8.408572197,-16.06349945
+,,,,,C3_20.5,20.5,grey crystalline limestone,,-8.356907845,-15.8040781
+,,,,,C3_21.0,21,sandy grainstone,,-8.233840942,-15.93623257
+,,,,,C3_21.5,21.5,sandy grainstone,,-8.156827927,-15.82307243
+,,,,,C3_22.0,22,sandy grainstone,,-8.136852264,-15.34939194
+,,,,,C3_22.5,22.5,sandy grainstone,,-8.088464737,-15.79475498
+,,,,,C3_23.1,23.1,sandy grainstone,,-7.879134655,-15.95513535

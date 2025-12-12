@@ -1,0 +1,76 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+6.3,siliciclastic,siltstone,,purple,C8_6.3,6.3,grey crystalline limestone,,-12.33514595,-14.12032795
+50,limestone,siltstone[limestone],,intraclast carbonate breccia,C8_7.3,7.3,sandy pink crystalline limestone,,-12.03563309,-14.51073837
+3,siliciclastic,siltstone[sandstone],,,C8_35.6,35.6,sandy pink crystalline limestone,,-10.6086216,-15.25792217
+10.2,limestone,siltstone[silty limestone],,,C8_59.3,59.3,sandy dolostone,,-11.47374916,-15.08218479
+4.2,limestone,siltstone[intraclast carbonate breccia],,,C8_60.2,60.2,sandy grainstone,,-10.59755898,-14.75698471
+6.3,limestone,siltstone[limestone],,convoluted limestone,C8_69.7,69.7,pink laminated crystalline limestone,,-11.06939983,-15.83630466
+8.2,limestone,siltstone[silty limestone],,,C8_70.1,70.1,sandy pink crystalline limestone,,-11.27788544,-15.83085632
+7.8,limestone,siltstone[limestone],,convoluted limestone,C8_70.4,70.4,sandy pink crystalline limestone,,-11.03052902,-16.03873825
+14.2,limestone,siltstone[silty limestone],,,C8_70.8,70.8,sandy pink crystalline limestone,,-10.98970985,-15.56378078
+7.3,limestone,red limestone siltstone rhythmite,,,C8_71.1,71.1,sandy green and pink crystalline limestone,,-10.76332569,-16.47158241
+6.6,limestone,red limestone siltstone rhythmite,,,C8_71.5,71.5,sandy green and pink crystalline limestone,,-10.81086445,-15.81959057
+6.4,limestone,green limestone siltstone rhythmite,,,C8_73.1,73.1,sandy pink crystalline limestone,,-10.17246628,-15.61396313
+5,siliciclastic,mudstone,,,C8_73.2,73.2,sandy pink crystalline limestone,,-10.06655407,-15.58061981
+,,,,,C8_73.4,73.4,sandy pink crystalline limestone,,-10.18840408,-15.79570103
+,,,,,C8_73.5,73.5,sandy pink crystalline limestone,,-10.07433891,-15.58775997
+,,,,,C8_77.3,77.3,pink crystalline limestone,,-9.788320541,-18.02100754
+,,,,,C8_77.6,77.6,sandy pink crystalline limestone,,-9.697758675,-17.16054535
+,,,,,C8_78.2,78.2,sandy pink crystalline limestone,,-9.897939682,-15.60389137
+,,,,,C8_78.5,78.5,pink crystalline limestone,,-9.745679855,-15.49373913
+,,,,,C8_81.5,81.5,sandy grainstone,,-8.286569595,-14.96806049
+,,,,,C8_82.6,82.6,ls mudstone,,-5.516160488,-13.57635498
+,,,,,C8_83.1,83.1,sandy grainstone,,-9.518854141,-15.68873596
+,,,,,C8_84.1,84.1,sandy grainstone,,-9.503284454,-15.28216076
+,,,,,C8_85.6,85.6,sandy grainstone,,-9.225013733,-15.6841898
+,,,,,C8_86.2,86.2,sandy grainstone,,-9.424882889,-15.50467873
+,,,,,C8_87.2,87.2,sandy grainstone,,-9.275121689,-15.83800697
+,,,,,C8_88.3,88.3,sandy grainstone,,-9.525035858,-15.63951683
+,,,,,C8_91.0,91,sandy grainstone,,-9.167837143,-15.80129814
+,,,,,C8_91.8,91.8,sandy grainstone,,-8.034353256,-15.48207855
+,,,,,C8_92.9,92.9,sandy grainstone,,-9.433534622,-15.62665749
+,,,,,C8_94.0,94,pink laminated crystalline limestone,,-9.315113068,-15.5073204
+,,,,,C8_95.0,95,sandy grainstone,,-9.414142609,-16.31380463
+,,,,,C8_97.3,97.3,sandy grainstone,,-9.297031403,-15.59991741
+,,,,,C8_97.7,97.7,sandy grainstone,,-9.081899643,-16.00537491
+,,,,,C8_98.7,98.7,sandy grainstone,,-7.405174255,-14.96997261
+,,,,,C8_99.7,99.7,pink crystalline limestone,,-9.070693016,-15.28075504
+,,,,,C8_100.7,100.7,pink crystalline limestone,,-9.204847336,-15.45738602
+,,,,,C8_101.7,101.7,sandy green crystalline limestone,,-9.154611588,-15.3939085
+,,,,,C8_102.7,102.7,sandy grainstone,,-8.770903587,-15.38203621
+,,,,,C8_104.1,104.1,sandy grainstone,,-8.689674377,-15.40024185
+,,,,,C8_104.6,104.6,sandy crystalline limestone with microcrystalline dolomite,,-8.916954041,-15.21728611
+,,,,,C8_105.3,105.3,sandy tan crystalline limestone,,-8.661564827,-15.5120573
+,,,,,C8_106.0,106,sandy grainstone,,-8.801700592,-15.2699213
+,,,,,C8_106.7,106.7,sandy green and pink crystalline limestone,,-8.954784393,-15.16554642
+,,,,,C8_108.0,108,sandy pink crystalline limestone,,-8.736209869,-15.30935097
+,,,,,C8_108.2,108.2,sandy pink crystalline limestone,,-8.803098679,-15.28103065
+,,,,,C8_110.2,110.2,sandy pink crystalline limestone,,-8.703027725,-15.22443295
+,,,,,C8_111.0_white,111,sandy tan crystalline limestone,,-8.651486397,-15.19807339
+,,,,,C8_111.0_purple,111,sandy pink crystalline limestone,,-8.641766548,-15.30418301
+,,,,,C8_111.2,111.2,sandy pink crystalline limestone,,-8.634111404,-15.34118462
+,,,,,C8_111.4,111.4,sandy grainstone,,-8.517918587,-15.10918713
+,,,,,C8_111.9,111.9,sandy pink crystalline limestone,,-8.480949402,-15.36996651
+,,,,,C8_112.3,112.3,sandy pink crystalline limestone,,-8.611654282,-15.35371494
+,,,,,C8_112.5,112.5,sandy grainstone,,-8.601378441,-15.33778858
+,,,,,C8_112.7,112.7,sandy pink crystalline limestone,,-8.575074196,-15.47172832
+,,,,,C8_114.9,114.9,sandy pink crystalline limestone,,-8.392810822,-15.61178398
+,,,,,C8_115.1_white,115.1,sandy tan crystalline limestone,,-8.483319283,-15.27438736
+,,,,,C8_115.1_purple,115.1,sandy pink crystalline limestone,,-8.460116386,-15.12555599
+,,,,,C8_115.5,115.5,sandy pink crystalline limestone,,-8.459472656,-15.25253201
+,,,,,C8_116.1,116.1,sandy pink crystalline limestone,,-8.401789665,-15.35275841
+,,,,,C8_116.4,116.4,sandy pink crystalline limestone,,-8.490049362,-15.23894405
+,,,,,C8_117.5,117.5,sandy pink crystalline limestone,,-8.510773659,-15.18965721
+,,,,,C8_117.8,117.8,sandy grainstone,,-8.287774086,-15.2156601
+,,,,,C8_118.4,118.4,sandy tan crystalline limestone,,-8.378112793,-15.11946678
+,,,,,C8_119.8,119.8,sandy tan crystalline limestone,,-8.261930466,-15.12695885
+,,,,,C8_120.7,120.7,sandy pink crystalline limestone,,-8.336723328,-14.4634552
+,,,,,C8_122.2,122.2,sandy pink crystalline limestone,,-8.207653046,-14.80610752
+,,,,,C8_123.2,123.2,sandy pink crystalline limestone,,-8.123065948,-14.89665222
+,,,,,C8_124.1,124.1,sandy pink crystalline limestone,,-7.993663788,-15.12212563
+,,,,,C8_125.1,125.1,green crystalline limestone,,-8.152258873,-15.01178265
+,,,,,C8_126.1,126.1,green crystalline limestone,,-8.065942764,-15.19406128
+,,,,,C8_127.1,127.1,green crystalline limestone,,-7.882169724,-14.8342371
+,,,,,C8_128.1,128.1,green crystalline limestone,,-7.822883606,-14.91936302
+,,,,,C8_129.1,129.1,green crystalline limestone,,-8.015338898,-15.13580608
+,,,,,C8_130.1,130.1,green crystalline limestone,,-9.081008911,-15.19088364

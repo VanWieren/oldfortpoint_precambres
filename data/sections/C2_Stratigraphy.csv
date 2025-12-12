@@ -1,0 +1,21 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+6.6,siliciclastic,cross-bedded siltstone[red grainstone],FUS,,C2_0.0,0,pink crystalline limestone,,-10.57814884,-15.40195084
+11.2,limestone,green grainstone[siltstone] rhythmite,FUS,,C2_0.6,0.6,pink crystalline limestone,,-10.7947731,-15.68125439
+1.4,siliciclastic,siltstone,,,C2_1.6,1.6,pink crystalline limestone,,-10.70801353,-15.49519062
+,,,,,C2_2.5,2.5,pink crystalline limestone,,-10.53432655,-15.92866707
+,,,,,C2_3.5,3.5,pink crystalline limestone,,-10.38566399,-15.66445827
+,,,,,C2_4.5,4.5,pink crystalline limestone,,-9.88126564,-15.83752251
+,,,,,C2_5.5,5.5,pink crystalline limestone,,-9.691524506,-15.74461746
+,,,,,C2_6.5,6.5,pink crystalline limestone,,-9.644076347,-15.58504486
+,,,,,C2_7.6,7.6,sandy pink crystalline limestone,,-9.091451645,-15.93753242
+,,,,,C2_8.6,8.6,sandy pink crystalline limestone,,-9.078943253,-15.6491785
+,,,,,C2_9.6,9.6,sandy pink crystalline limestone,,-8.815067291,-15.31305122
+,,,,,C2_10.6,10.6,green and pink crystalline limestone,,-8.545452118,-15.33586693
+,,,,,C2_11.6,11.6,green and pink crystalline limestone,,-8.390976906,-15.56324863
+,,,,,C2_12.6,12.6,green and pink crystalline limestone,,-8.32875061,-15.49907684
+,,,,,C2_13.6,13.6,green crystalline limestone,,-8.046017647,-15.5731802
+,,,,,C2_14.6,14.6,green crystalline limestone,,-8.190982819,-15.70575809
+,,,,,C2_15.0,15,green crystalline limestone,,-8.122467041,-15.68919945
+,,,,,C2_16.0,16,green crystalline limestone,,-7.800318241,-15.7115593
+,,,,,C2_17.0,17,grey crystalline limestone,,-7.606199265,-15.62584686
+,,,,,C2_17.8,17.8,grey crystalline limestone,,-7.383796692,-15.6125927

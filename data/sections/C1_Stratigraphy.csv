@@ -1,0 +1,47 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+1,siliciclastic,siltstone[red grainstone],,,C1_0.0,0,grey crystalline limestone,,-7.722773075,-15.32187748
+1.8,limestone,green grainstone[siltstone] rhythmite,,,C1_1.0,1,grey crystalline limestone,sulfides,-8.103945732,-15.63088036
+3.6,limestone,red grainstone[siltstone] rhythmite,,,C1_2.0,2,pink crystalline limestone,,-8.2486763,-15.4484272
+4.6,siliciclastic,siltstone[red grainstone],CUS,,C1_2.8,2.8,pink crystalline limestone,,-8.623922348,-15.52051735
+5.8,siliciclastic,sandstone[red grainstone; interclast carbonate breccia lenses],,breccia lenses,C1_3.0,3,pink crystalline limestone,,-8.719141006,-15.54624557
+30.5,siliciclastic,siltstone,CUS,,C1_4.0,4,sandy pink crystalline limestone,,-9.410453796,-15.7317028
+4,cover,cover,,,C1_5.0,5,sandy pink crystalline limestone,,-10.02730846,-15.68320656
+0.7,siliciclastic,siltstone, ,,C1_6.0,6,sandy pink crystalline limestone,,-10.59165764,-15.69672585
+3.2,cover,cover,,,C1_7.0,7,sandy pink crystalline limestone,,-10.73510265,-15.68147373
+67.6,siliciclastic,siltstone,CUS,,C1_8.0,8,sandy pink crystalline limestone,,-11.32091141,-14.98603249
+15.7,siliciclastic,carbonate cemented sandstone,CUS,,C1_11.6,11.6,sandy dolostone,,-11.21916771,-14.90768147
+16.9,siliciclastic,red grainstone[siltstone] rhythmite,,breccia lenses,C1_138.5,138.5,dolostone,,-11.13208008,-14.97642803
+10.4,limestone,green grainstone[siltstone] rhythmite,,pyrite,C1_141.5,141.5,dolostone,,-10.82213211,-14.51097012
+1.5,limestone,grainstone[micrite],,,C1_142.3,142.3,dolostone,,-10.79892349,-14.85731697
+3.7,siliciclastic,black shale[authigenic carbonate nodules],,authigenic nodules,C1_142.8,142.8,dolostone,,-10.95125675,-14.6684618
+2.8,limestone,carbonate breccia,,,C1_143.6,143.6,dolostone,,-11.20570087,-14.8111763
+8.35,siliciclastic,siltstone[red grainstone],,,C1_144.2,144.2,dolostone,,-11.04202271,-15.07362175
+,,,,,C1_147.9,147.9,dolostone,,-10.86657715,-14.93898678
+,,,,,C1_148.5,148.5,sandy grainstone,,-10.82417488,-15.64120865
+,,,,,C1_149.0,149,sandy grainstone,,-10.94159889,-15.43615055
+,,,,,C1_150.0,150,sandy grainstone,,-10.9717865,-15.2862587
+,,,,,C1_151.0,151,sandy pink crystalline limestone,,-10.06974697,-15.83237648
+,,,,,C1_152.5,152.5,sandy pink crystalline limestone,,-10.24826622,-15.69876194
+,,,,,C1_153.4,153.4,dolostone,,-11.23564911,-14.73853111
+,,,,,C1_155.0,155,sandy pink crystalline limestone,,-9.781411171,-15.93054485
+,,,,,C1_155.4,155.4,sandy pink crystalline limestone,,-10.06463814,-15.76416588
+,,,,,C1_156.0,156,pink crystalline limestone,,-9.303689957,-15.76877022
+,,,,,C1_157.0,157,sandy pink crystalline limestone,,-9.024132729,-15.80631161
+,,,,,C1_157.5,157.5,sandy green crystalline limestone,,-9.033914566,-15.78957272
+,,,,,C1_158.0,158,green crystalline limestone,,-8.835751534,-15.81721783
+,,,,,C1_158.5,158.5,green crystalline limestone,,-8.74762249,-15.74120235
+,,,,,C1_159.0,159,green and pink crystalline limestone,,-8.526940346,-15.84171867
+,,,,,C1_159.5,159.5,green and pink crystalline limestone,,-8.715175629,-15.69595814
+,,,,,C1_160.0,160,green and pink crystalline limestone,,-8.466317177,-15.75385571
+,,,,,C1_160.5,160.5,green and pink crystalline limestone,,-8.282411575,-15.74932671
+,,,,,C1_161.0,161,green and pink crystalline limestone,,-8.137392998,-15.64827347
+,,,,,C1_161.5,161.5,green and pink crystalline limestone,sulfides,-8.004037857,-15.59307384
+,,,,,C1_162.0,162,green and pink crystalline limestone,,-7.997822762,-15.62264633
+,,,,,C1_162.5,162.5,green and pink crystalline limestone,,-7.98462677,-15.72000313
+,,,,,C1_163.0,163,green and pink crystalline limestone,,-7.984471321,-15.6264801
+,,,,,C1_163.5,163.5,green and pink crystalline limestone,,-8.045088768,-15.57610321
+,,,,,C1_164.0,164,green and pink crystalline limestone,,-7.826013088,-15.86332893
+,,,,,C1_164.5,164.5,green and pink crystalline limestone,,-8.658717155,-14.52880859
+,,,,,C1_165.0,165,grey crystalline limestone,,-7.599073887,-15.80164146
+,,,,,C1_165.5,165.5,grey crystalline limestone,,-7.899730682,-15.97568226
+,,,,,C1_166.0,166,sandy grey crystalline limestone,,-9.395406723,-14.45478535

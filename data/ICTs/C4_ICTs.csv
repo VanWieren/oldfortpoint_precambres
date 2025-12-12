@@ -1,0 +1,60 @@
+sample_name,sample_height,sample_facies,sample_features,length_cm,width_cm,colour,id,d13c_carb,d18o_carb
+C4_ICT1_1,NA,ls mudstone,,14.5,6.5,grey,ICT1,1.056282043,-10.87711811
+C4_ICT1_2,NA,ls mudstone,,8.5,6,grey,ICT1,0.693172455,-14.90367413
+C4_ICT1_4,NA,ls mudstone,,4.5,3.5,grey,ICT1,0.044408798,-14.20666981
+C4_ICT1_5,NA,ls mudstone,,7,4,grey,ICT1,-2.047495842,-17.12459564
+C4_ICT1_6,NA,ls mudstone,,7,3,grey,ICT1,-3.043255329,-17.12009048
+C4_ICT1_7,NA,ls mudstone,,5,3.5,grey,ICT1,-0.259063721,-15.88509655
+C4_ICT1_8,NA,ls mudstone,,5.5,3.5,grey,ICT1,0.217856884,-15.55067635
+C4_ICT1_9,NA,ls mudstone,,5,1.5,grey,ICT1,1.345015526,-16.356884
+C4_ICT1_10,NA,ls mudstone,,5,2,grey,ICT1,2.024888039,-13.36815453
+C4_ICT1_11,NA,ls mudstone,,9,5.5,grey,ICT1,-1.712126732,-16.43048859
+C4_ICT1_12,NA,ls mudstone,,8,2.5,grey,ICT1,-0.98453474,-16.67353439
+C4_ICT1_13,NA,ls mudstone,,4,3,grey,ICT1,-2.732488632,-16.75630569
+C4_ICT1_14,NA,ls mudstone,,8.5,4,grey,ICT1,-1.318693876,-16.31861115
+C4_ICT1_15,NA,ls mudstone,,7,5.5,grey,ICT1,0.684858322,-16.07542038
+C4_ICT1_16,NA,ls mudstone,,13.5,3,grey,ICT1,3.203896046,-16.05657196
+C4_ICT1_17,NA,sandy grainstone,,7,2.5,grey,ICT1,-6.645082951,-16.62478256
+C4_ICT1_18,NA,grey crystalline limestone,,13,2.5,grey,ICT1,-6.215754509,-16.41741562
+C4_ICT1_19,NA,ls mudstone,,20,4,grey,ICT1,3.353618145,-16.29672623
+C4_ICT1_20,NA,ls mudstone,,4,3.5,grey,ICT1,2.314186096,-15.68163967
+C4_ICT1_21,NA,ls mudstone,,6.5,2.5,grey,ICT1,-1.549534321,-16.54200745
+C4_ICT1_22,NA,sandy grainstone,,5.5,3,grey,ICT1,-0.899405956,-16.68369102
+C4_ICT1_23,NA,sandy grainstone,,12,2,grey,ICT1,0.382213116,-16.74362183
+C4_ICT1_24,NA,sandy grainstone,,13,4,grey,ICT1,-1.88180685,-16.75595665
+C4_ICT1_25,NA,ls mudstone,,7,1,grey,ICT1,1.27165556,-16.7354393
+C4_ICT1_26,NA,silty grainstone,,2,2,grey,ICT1,-5.98579073,-16.76319885
+C4_ICT1_27,NA,sandy grainstone,,4,1,grey,ICT1,-2.746705294,-16.64790344
+C4_ICT1_28,NA,ls mudstone,,3,2,grey,ICT1,2.555571556,-13.64435101
+C4_ICT1_29,NA,sandy grainstone,,4,2,grey,ICT1,0.049170017,-16.49954987
+C4_ICT1_30,NA,sandy grainstone,,5,2,grey,ICT1,-1.722331047,-16.86086655
+C4_ICT1_31,NA,sandy grainstone,,9,4,grey,ICT1,1.296412468,-16.82320404
+C4_ICT1_32,NA,ls mudstone,,5,1,grey,ICT1,2.415545464,-16.35101318
+C4_ICT1_33,NA,sandy grainstone,,4,2,grey,ICT1,2.631366253,-16.58930969
+C4_ICT1_34,NA,sandy grainstone,,7,2,grey,ICT1,0.537525177,-16.75060654
+C4_ICT1_35,NA,silty grainstone,,3,2.5,grey,ICT1,-1.152126551,-16.46247101
+C4_ICT1_37,NA,silty grainstone,,7,2,grey,ICT1,-5.899153709,-16.55169296
+C4_ICT1_38,NA,silty grainstone,,6,2,grey,ICT1,1.697710514,-16.53987312
+C4_ICT1_39,NA,silty grainstone,,10,3,grey,ICT1,1.784328938,-15.85054398
+C4_ICT1_40,NA,ls mudstone,,6,3.5,grey,ICT1,3.232727528,-16.33336258
+C4_ICT1_41,NA,ls mudstone,,16,2,grey,ICT1,-3.883167744,-16.68286896
+C4_ICT2_1,NA,ls mudstone,,8,2,grey,ICT2,-2.211473703,-16.11555672
+C4_ICT2_2,NA,sandy grainstone,,20,19,grey,ICT2,-2.213097095,-15.50493622
+C4_ICT2_3,NA,ls mudstone,,15,4,brown,ICT2,-3.433076382,-16.11039162
+C4_ICT2_4,NA,ls mudstone,,2,1.5,brown,ICT2,-5.549380302,-16.03851318
+C4_ICT2_5,NA,ls mudstone,,4,1.5,grey,ICT2,-1.520405293,-14.78658009
+C4_ICT2_6,NA,grey crystalline limestone,,4,4,brown,ICT2,-5.633850098,-16.12088776
+C4_ICT2_7,NA,ls mudstone,,8,2,grey,ICT2,-0.976662636,-15.66856861
+C4_ICT2_8,NA,grey crystalline limestone,,13,6,brown,ICT2,-5.872590065,-16.08460999
+C4_ICT2_9,NA,grey crystalline limestone,,8,3,brown,ICT2,-6.979258537,-16.21739197
+C4_ICT2_10,NA,ls mudstone,,5,3,grey,ICT2,-0.453319073,-14.95063496
+C4_ICT2_11,NA,ls mudstone,,8,1,grey,ICT2,-4.726284981,-16.12149239
+C4_ICT2_12,NA,ls mudstone,,6,2,grey,ICT2,0.886975765,-11.47235584
+C4_ICT2_13,NA,grey crystalline limestone,,5,2,grey,ICT2,-2.416405678,-16.23535728
+C4_ICT2_14,NA,grey crystalline limestone,,18,6,brown,ICT2,-5.211423397,-16.14413834
+C4_ICT2_15,NA,grey crystalline limestone,,10,4,brown,ICT2,-4.441660881,-16.26485062
+C4_ICT2_16,NA,sandy grainstone,,11,4,grey,ICT2,-2.217838764,-16.21783447
+C4_ICT2_17,NA,sandy grainstone,,9,3,grey,ICT2,-2.272153378,-16.16618347
+C4_ICT2_18,NA,grey crystalline limestone,,9,2,brown,ICT2,-5.260126114,-16.24332619
+C4_ICT2_19,NA,grey crystalline limestone,,7,4.5,brown,ICT2,-6.276576042,-16.01669502
+C4_ICT2_20,NA,ls mudstone,,16.5,3,grey,ICT2,-1.837524176,-16.12185669

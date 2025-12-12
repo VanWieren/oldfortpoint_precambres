@@ -1,0 +1,63 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+3,siliciclastic,mudstone,,"bedded, sulfides",C16_161.5,161.5,limestone cemented sandstone,,-6.699127197,-18.27578735
+3,siliciclastic,sandstone,,sulfides,C16_162.0,162,limestone cemented sandstone,,-6.590511799,-18.43522263
+1,siliciclastic,mudstone,,"bedded, sulfides",C16_163.1,163.1,limestone cemented sandstone,,-5.517249107,-17.79676056
+3.5,siliciclastic,sandstone,,sulfides,C16_164.0,164,wackestone,,-5.486806393,-16.87005043
+4,siliciclastic,sandstone[mudstone],,,C16_165.0,165,ls mudstone,,-5.581342697,-17.90714264
+2.8,siliciclastic,mudstone,,bedded,C16_165.3,165.3,limestone cemented sandstone,,-5.262210846,-17.23843193
+7.9,siliciclastic,sandstone,,"bedded, sulfides",C16_166.3,166.3,limestone cemented sandstone,,-5.7794137,-17.79530907
+0.3,siliciclastic,sandstone,,,C16_166.4,166.4,limestone cemented sandstone,,-5.338428497,-17.57663345
+5.1,siliciclastic,mudstone,,bedded,C16_167.4,167.4,ls mudstone,,-5.147033691,-17.64927673
+6.9,siliciclastic,mudstone[sandstone],,sulfides,C16_168.4,168.4,wackestone,,-4.415678024,-17.24007416
+16.5,siliciclastic,sandstone[mudstone],,sulfides,C16_169.6,169.6,ls mudstone,,-5.070957184,-17.25761032
+14.5,siliciclastic,mudstone,,convoluted,C16_170.6,170.6,ls mudstone,,-4.650882244,-16.84319305
+4,siliciclastic,mudstone,,sulfides,C16_171.6,171.6,ls mudstone,,-4.768340588,-17.37109184
+4,siliciclastic,mudstone,,,C16_172.6,172.6,ls mudstone,,-4.974720955,-17.54391098
+14,siliciclastic,mudstone,,,C16_173.6,173.6,ls mudstone,,-4.10891819,-17.58621216
+14.6,siliciclastic,mudstone[sandstone],,,C16_174.6,174.6,ls mudstone,,-3.273938656,-16.22459793
+1.8,limestone,carbonate clast breccia,FUS,ICT,C16_175.6,175.6,ls mudstone,,-4.54378891,-17.33488464
+1.1,siliciclastic,sandstone,,,C16_176.6,176.6,ls mudstone,,-4.632104874,-17.09058571
+1,limestone,carbonate clast breccia,,ICT,C16_177.6,177.6,ls mudstone,,-4.982627869,-17.09893608
+0.1,siliciclastic,sandstone,,,C16_178.6,178.6,ls mudstone,,-4.445110798,-16.96455193
+0.5,limestone,carbonate clast breccia,,,C16_179.5,179.5,ls mudstone,,-4.923003197,-18.33932114
+0.4,siliciclastic,sandstone,,,C16_180.5,180.5,ls mudstone,,-4.476861954,-17.30300713
+0.8,limestone,carbonate clast breccia,,ICT,C16_181.5,181.5,ls mudstone,,-4.319487095,-16.82635117
+2,limestone,sandstone[carbonate clast breccia],,ICT,C16_182.5,182.5,ls mudstone,,-4.685499668,-16.62101364
+22.7,siliciclastic,sandstone,,,C16_183.5,183.5,ls mudstone,sulfides,-1.929136276,-15.43745422
+1,limestone,carbonate clast breccia,,ICT,C16_184.5,184.5,ls mudstone,,-5.019248962,-16.6860218
+2,siliciclastic,sandstone,,massive,C16_185.5,185.5,ls mudstone,sulfides,-5.420912743,-16.66033554
+1.5,limestone,carbonate clast breccia,FUS,ICT,C16_187.0,187,sandy grainstone,sulfides,-4.923845291,-16.69885635
+6.2,siliciclastic,sandstone,,,C16_187.8,187.8,sandy grainstone,sulfides,-5.021736145,-16.72045898
+10,siliciclastic,mudstone[sandstone],,sulfides,C16_188.4,188.4,ls mudstone,,-5.221403599,-16.37733078
+5,limestone,limestone cemented sandstone[siliciclastic breccia],,,C16_189.4,189.4,sandy grainstone,sulfides,-4.641938686,-15.66182041
+2.8,limestone,sandstone[limestone cemented sandstone],,,C16_190.3,190.3,sandy grainstone,sulfides,-4.540484905,-16.54142761
+26.3,limestone,ls mudstone,,"sulfides, fissile, scours",C16_191.3,191.3,ls mudstone,sulfides,-4.824121952,-16.71564484
+3,limestone,mudstone[ls mudstone],,,C16_192.3,192.3,ls mudstone,sulfides,-5.290744305,-16.67438507
+2.7,siliciclastic,sandstone,,,C16_198.3,198.3,ls mudstone,sulfides,-5.466349125,-16.91957855
+2.1,siliciclastic,mudstone,,,C16_202.3,202.3,ls mudstone,sulfides,-4.260579586,-16.7799511
+10.2,limestone,ls mudstone[sandstone],,sulfides,C16_203.3,203.3,ls mudstone,sulfides,-4.112238407,-16.64539528
+2.7,limestone,ls mudstone,,,C16_204.3,204.3,sandy grainstone,sulfides,-4.074716568,-16.81881332
+24.5,limestone,sandstone[ls mudstone],,,C16_205.3,205.3,ls mudstone,,-4.183737278,-16.58078575
+1.2,siliciclastic,sandstone,,,C16_206.3,206.3,ls mudstone,,-4.089812756,-16.55751038
+1.4,limestone,carbonate clast breccia,,ICT,C16_207.3,207.3,ls mudstone,,-3.784263611,-16.74081421
+13.3,siliciclastic,sandstone,,,C16_208.3,208.3,limestone cemented sandstone,,-4.598834991,-16.13644028
+4.1,limestone,ls mudstone,,ICT,C16_210.0,210,limestone cemented sandstone,,-4.772856236,-17.13969231
+0.8,limestone,carbonate clast breccia,,ICT,C16_213.8,213.8,ls mudstone,sulfides,-5.178019047,-17.01806259
+4.6,limestone,sandstone[ls mudstone],,,C16_221.5,221.5,ls mudstone,,-5.229438305,-17.73403549
+8.3,limestone,sandstone[ls mudstone],,,C16_228.0,228,limestone cemented sandstone,,-4.196372986,-17.97195816
+0.4,limestone,carbonate clast breccia,,,C16_229.0,229,ls mudstone,,-3.487021923,-17.39315033
+9.4,siliciclastic,sandstone,,,C16_230.0,230,ls mudstone,,-3.664592743,-17.56307411
+6,siliciclastic,mudstone,,,C16_231.0,231,ls mudstone,,-3.727679014,-17.41398048
+0.7,siliciclastic,sandstone,,,C16_232.0,232,ls mudstone,,-3.676147461,-18.00538826
+0.6,siliciclastic,pebble conglomerate,,scours,C16_233.0,233,grainstone,,-3.720675945,-19.59428406
+0.4,siliciclastic,sandstone,,,C16_234.0,234,ls mudstone,,-3.695813656,-17.55757141
+0.6,siliciclastic,pebble conglomerate,,,C16_234.5,234.5,ls mudstone,,-3.994728088,-17.52662468
+20,siliciclastic,sandstone,,,C16_251.4,251.4,sandy grainstone,sulfides,-2.891256571,-17.44952393
+,,,,,C16_252.4,252.4,sandy grainstone,,-2.726565361,-17.20454788
+,,,,,C16_254.2,254.2,limestone cemented sandstone,,-2.710965872,-17.57505989
+,,,,,C16_255.2,255.2,limestone cemented sandstone,,-2.786670208,-17.68947029
+,,,,,C16_255.9,255.9,wackestone,,-2.424179077,-17.55496216
+,,,,,C16_258.6,258.6,ls mudstone,,0.049881458,-17.12997437
+,,,,,C16_259.6,259.6,limestone cemented siltstone,,-0.443353176,-17.21959496
+,,,,,C16_269.0,269,limestone cemented sandstone,,-2.039587259,-15.69561863
+,,,,,C16_269.3,269.3,limestone cemented sandstone,,-3.6118083,-15.80901909

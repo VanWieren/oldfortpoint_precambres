@@ -1,0 +1,24 @@
+Sr in NRCC SLRS-5 (),,,,,,,,,,,,,
+less/more,Value,Unit,Origin,Uncertainty,Uncertainty Type,Method,Analyses-Comment,Institution,Comment,Last Name,First Name,Year,GeoReM-Id
+,0.05,µg/g,measured,,,ICPAES,,GeoForschungsZentrum Potsdam (GFZ),,Uhlig,D.,2017,GeoReM 10721
+,0.0546,µg/g,measured,0.0006,SD,ICPMS,with FDC (%),Okayama University,,Hoang,Que D.,2019,GeoReM 11187
+,0.0566,µg/g,measured,0.0014,SD,ICPMS,without FDC (%),Okayama University,,Hoang,Que D.,2019,GeoReM 11187
+,53.3,µg/l,compiled,1.9,UNCERT,ICPMS,compiled values interlaboratory,,,Yeghicheyan,D.,2019,GeoReM 11378
+,53.3,µg/l,measured,1.4,UNCERT,ICPMS,,Observatoire de Physique du Globe de Clermont-Ferrand,,Yeghicheyan,D.,2019,GeoReM 11378
+,53,µg/l,measured,0.6,UNCERT,ICPMS,,Université Paul Sabatier,,Yeghicheyan,D.,2019,GeoReM 11378
+,53.1,µg/l,measured,1.5,UNCERT,ICPMS,,Service d´Analyse des Roches et des Mineraux (SARM),,Yeghicheyan,D.,2019,GeoReM 11378
+,53.9,µg/l,measured,0.9,UNCERT,ICPMS,,Université de Toulouse,,Yeghicheyan,D.,2019,GeoReM 11378
+,0.0536,µg/g,compiled,0.0013,95%CL,,,National Research Council of Canada (NRCC),,Mester,Z.,2009,GeoReM 5277
+,53,µg/l,measured,1.5,SD,ICPMS,,Université de Rennes,,Yeghicheyan,D.,2013,GeoReM 7065
+,53.7,µg/l,measured,1.5,SD,ICPMS,,Université de Montpellier I et II,,Yeghicheyan,D.,2013,GeoReM 7065
+,50.9,µg/l,measured,2.5,SD,ICPMS,,Université de Montpellier II & CNRS,,Yeghicheyan,D.,2013,GeoReM 7065
+,51.1,µg/l,measured,3.7,SD,ICPMS,,Institute de Physique de Globe de Paris (IPGP),,Yeghicheyan,D.,2013,GeoReM 7065
+,54.7,µg/l,measured,0.5,SD,ICPMS,,"Universites Paris et 12 ,Laboratoire Interuniversitaire des Systèmes Atmosphèriques (LISA UMR CNRS 7583)",,Yeghicheyan,D.,2013,GeoReM 7065
+,56.3,µg/l,measured,2.9,SD,ICPMS,,Université Paul Sabatier,,Yeghicheyan,D.,2013,GeoReM 7065
+,54,µg/l,measured,2.1,SD,ICPMS,,Université de Toulouse,,Yeghicheyan,D.,2013,GeoReM 7065
+,54.2,µg/l,measured,2.5,SD,ICPMS,,Centre de Recherches Petrographiques et Geochimiques (CRPG),,Yeghicheyan,D.,2013,GeoReM 7065
+,53.8,µg/l,compiled,5.7,95%CL,ICPMS,,,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.31,µmol/kg,measured,0.05,SD,ICPMS,,Woods Hole Oceanographic Institution (WHOI),,Gonneea,M.E.,2014,GeoReM 8205
+,,,,,,,,,,,,,
+Download from GeoReM - the Reference Material Database,,,,,,,,,,,,,
+Date of Query: Oct 24. 2023,,,,,,,,,,,,,

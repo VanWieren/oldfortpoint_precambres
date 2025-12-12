@@ -1,0 +1,60 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+12.6,siliciclastic,mudstone[sandstone],,,C13_96.4,96.4,sandy crystalline limestone with microcrystalline dolomite,,-11.88236046,-14.77553558
+7,cover,cover,,,C13_96.5,96.5,sandy crystalline limestone ribbonite,,-12.1254425,-14.80136585
+14,siliciclastic,mudstone[sandstone],,,C13_96.6,96.6,sandy crystalline limestone ribbonite,,-11.89342976,-14.76557732
+62.5,siliciclastic,purple siltstone[sandstone],,green redox laminations,C13_97.0,97,sandy crystalline limestone,,-12.11106014,-15.38822269
+0.25,limestone,carbonate breccia,,ICT,C13_108.8,108.8,grey laminated crystalline limestone,,-12.59484482,-16.17363167
+0.85,limestone,purple siltstone[intraclast carbonate breccia],,ICT,C13_111.5,111.5,sandy grainstone,,-11.29035187,-16.04961967
+26.9,limestone,purple siltstone[silty grainstone],,,C13_111.8,111.8,sandy pink crystalline limestone,,-12.4971714,-16.38692474
+0.5,limestone,carbonate breccia,,ICT,C13_112.1,112.1,sandy pink crystalline limestone,,-12.16679192,-16.0504303
+4.3,limestone,purple siltstone[silty grainstone],,,C13_112.6,112.6,sandy grey laminated crystalline limestone,,-10.31417084,-15.05315685
+0.7,limestone,purple siltstone – grainstone ribbonite,,ribbonite,C13_113.4,113.4,sandy grey laminated crystalline limestone,,-11.9162178,-15.78307343
+1.5,siliciclastic,green siltstone,,,C13_116.9,116.9,sandy grey laminated crystalline limestone,,-9.091796875,-15.48183632
+0.8,limestone,purple siltstone – grainstone ribbonite,,ribbonite,C13_117.2,117.2,sandy grainstone,,-10.24787903,-15.84922314
+2,siliciclastic,green siltstone,,,C13_117.6,117.6,sandy grainstone,,-10.08938789,-15.52910233
+2.4,limestone,purple siltstone – grainstone ribbonite,,ribbonite,C13_123.9,123.9,sandy grainstone,,-9.608205795,-16.17721939
+0.1,limestone,green siltstone[intraclast carbonate breccia],,,C13_124.0,124,grey crystalline limestone,,-9.44181633,-13.28641415
+6.5,limestone,green siltstone – grainstone ribbonite,,ribbonite,C13_127.9,127.9,sandy pink crystalline limestone,,-8.887661934,-14.1134243
+0.6,limestone,carbonate breccia,,ICT,C13_129.1,129.1,pink crystalline limestone,,-7.892449379,-13.80066681
+5.6,limestone,green siltstone – grainstone ribbonite,,ribbonite,C13_129.3,129.3,sandy pink crystalline limestone,,-7.89498806,-14.14472675
+0.2,limestone,carbonate breccia,,,C13_129.4,129.4,green and pink crystalline limestone,,-8.703214645,-14.06513882
+7,limestone,green siltstone – grainstone ribbonite,,ribbonite,C13_129.5,129.5,grey crystalline limestone,,-9.139353752,-14.42966366
+4,siliciclastic,mudstone,,,C13_129.7,129.7,grey crystalline limestone,,-8.825228691,-14.23236942
+,,,,,C13_130.7,130.7,grey crystalline limestone,,-9.251741409,-15.37821579
+,,,,,C13_131.9,131.9,pink and grey crystalline limestone,,-8.946437836,-14.86901569
+,,,,,C13_134.2,134.2,pink and grey laminated crystalline limestone,,-8.685874939,-14.61613941
+,,,,,C13_134.4,134.4,pink and grey laminated crystalline limestone,,-8.570881844,-14.46089554
+,,,,,C13_134.7,134.7,pink and grey laminated crystalline limestone,,-8.633471489,-14.74773026
+,,,,,C13_136.1,136.1,pink laminated crystalline limestone,,-8.701389313,-14.95705223
+,,,,,C13_136.4,136.4,pink laminated crystalline limestone,,-8.398835182,-14.17718983
+,,,,,C13_136.5,136.5,pink and grey laminated crystalline limestone,,-8.430239677,-14.63808823
+,,,,,C13_137.7,137.7,grey crystalline limestone,,-8.310832977,-14.19324112
+,,,,,C13_138.6,138.6,grey crystalline limestone,,-8.786952972,-14.62822533
+,,,,,C13_141.9,141.9,grey crystalline limestone,,-8.401864052,-14.5970602
+,,,,,C13_142.4,142.4,grey crystalline limestone,,-8.348160744,-14.57624626
+,,,,,C13_142.5,142.5,grey crystalline limestone,,-8.324687958,-14.63748932
+,,,,,C13_142.7,142.7,grey crystalline limestone,,-9.342161179,-15.36583328
+,,,,,C13_144.6,144.6,grey crystalline ls mudstone,,-8.023418427,-14.33851433
+,,,,,C13_145.2,145.2,grey crystalline limestone,,-8.316250801,-14.69435692
+,,,,,C13_145.7,145.7,grey crystalline limestone,,-7.862681866,-14.23332405
+,,,,,C13_145.9,145.9,grey crystalline limestone,,-8.122163773,-14.39114094
+,,,,,C13_146.7,146.7,grey crystalline limestone,,-7.776453495,-14.10537529
+,,,,,C13_147.2,147.2,grey crystalline limestone,,-7.817760468,-13.96443748
+,,,,,C13_147.6,147.6,grey crystalline limestone,,-7.962892532,-14.19289875
+,,,,,C13_148.6,148.6,grey crystalline limestone,,-7.999038219,-14.2289772
+,,,,,C13_151.4,151.4,grey crystalline limestone,,-8.362184525,-14.13702679
+,,,,,C13_151.6,151.6,grey crystalline limestone,,-8.540672302,-14.44024849
+,,,,,C13_151.8,151.8,grey crystalline limestone,,-8.566747665,-14.09566212
+,,,,,C13_152.0,152,grey crystalline limestone,,-8.685141563,-14.1651907
+,,,,,C13_152.6,152.6,grey crystalline limestone,,-8.587304115,-13.90558243
+,,,,,C13_152.9,152.9,grey crystalline limestone,,-8.909692764,-14.08459568
+,,,,,C13_153.2,153.2,grey crystalline limestone,,-8.714830399,-13.7983408
+,,,,,C13_153.6,153.6,grey crystalline limestone,,-8.116005898,-14.31684113
+,,,,,C13_153.9,153.9,grey crystalline limestone,,-8.694885254,-13.84189224
+,,,,,C13_154.2,154.2,grey crystalline limestone,,-8.307235718,-14.65975285
+,,,,,C13_154.5,154.5,grey crystalline limestone,,-8.451450348,-14.36815834
+,,,,,C13_154.8,154.8,grey crystalline limestone,,-8.031443596,-13.89436531
+,,,,,C13_155.8,155.8,grey crystalline limestone,,-8.459716797,-14.01925182
+,,,,,C13_156.0,156,grey crystalline limestone,,-8.44934082,-14.11309624
+,,,,,C13_156.2,156.2,grey crystalline limestone,,-8.296068192,-14.166008
+,,,,,C13_156.4,156.4,grey crystalline limestone,,-8.007547379,-13.5799942

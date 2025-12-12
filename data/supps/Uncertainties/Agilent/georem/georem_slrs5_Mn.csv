@@ -1,0 +1,27 @@
+Mn in NRCC SLRS-5 (),,,,,,,,,,,,,
+less/more,Value,Unit,Origin,Uncertainty,Uncertainty Type,Method,Analyses-Comment,Institution,Comment,Last Name,First Name,Year,GeoReM-Id
+,4.5,µg/l,measured,0.4,SD,ICPAES,,Technische Universität Braunschweig,,Baptista-Salazar,C.,2017,GeoReM 10311
+,0.00452,µg/g,measured,0.00015,SD,ICPMS,with FDC (%),Okayama University,,Hoang,Que D.,2019,GeoReM 11187
+,0.0048,µg/g,measured,0.000103,SD,ICPMS,without FDC (%),Okayama University,,Hoang,Que D.,2019,GeoReM 11187
+,4.29,µg/l,compiled,0.28,UNCERT,ICPMS,compiled values interlaboratory,,,Yeghicheyan,D.,2019,GeoReM 11378
+,4.49,µg/l,measured,0.09,UNCERT,ICPMS,,Observatoire de Physique du Globe de Clermont-Ferrand,,Yeghicheyan,D.,2019,GeoReM 11378
+,4.32,µg/l,measured,0.13,UNCERT,ICPMS,,Université Paul Sabatier,,Yeghicheyan,D.,2019,GeoReM 11378
+,4.22,µg/l,measured,0.17,UNCERT,ICPMS,,Service d´Analyse des Roches et des Mineraux (SARM),,Yeghicheyan,D.,2019,GeoReM 11378
+,4.22,µg/l,measured,0.11,UNCERT,ICPMS,,Université de Toulouse,,Yeghicheyan,D.,2019,GeoReM 11378
+,77,µg/g,measured,3,SD,ICPMS,,ETH Zürich,,Ellwood,M.J.,2019,GeoReM 12471
+,0.00433,µg/g,compiled,0.00018,95%CL,,,National Research Council of Canada (NRCC),,Mester,Z.,2009,GeoReM 5277
+,3.98,µg/l,measured,0.21,SD,ICPMS,,Université Bordeaux,,Yeghicheyan,D.,2013,GeoReM 7065
+,4.21,µg/l,measured,0.12,SD,ICPMS,,Université de Rennes,,Yeghicheyan,D.,2013,GeoReM 7065
+,4.22,µg/l,measured,0.12,SD,ICPMS,,Université de Montpellier I et II,,Yeghicheyan,D.,2013,GeoReM 7065
+,3.88,µg/l,measured,0.3,SD,ICPMS,,Université de Montpellier II & CNRS,,Yeghicheyan,D.,2013,GeoReM 7065
+,4.13,µg/l,measured,0.43,SD,ICPMS,,Institute de Physique de Globe de Paris (IPGP),,Yeghicheyan,D.,2013,GeoReM 7065
+,4.34,µg/l,measured,0.13,SD,ICPMS,,"Universites Paris et 12 ,Laboratoire Interuniversitaire des Systèmes Atmosphèriques (LISA UMR CNRS 7583)",,Yeghicheyan,D.,2013,GeoReM 7065
+,4.13,µg/l,measured,0.15,SD,ICPMS,,Université Paul Sabatier,,Yeghicheyan,D.,2013,GeoReM 7065
+,4.19,µg/l,measured,0.17,SD,ICPMS,,Université de Toulouse,,Yeghicheyan,D.,2013,GeoReM 7065
+,4.49,µg/l,measured,0.13,SD,ICPMS,,Centre de Recherches Petrographiques et Geochimiques (CRPG),,Yeghicheyan,D.,2013,GeoReM 7065
+,4.2,µg/l,compiled,0.5,95%CL,ICPMS,,,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.078,µmol/l,measured,0.0075,2SD,ICPMS,,Academia Sinica,,Wang,Bo-Shian,2014,GeoReM 8311
+,0.00404,µg/g,measured,0.0001,SD,TIMS,,Imperial College London,,Crocket,K.C.,2014,GeoReM 8372
+,,,,,,,,,,,,,
+Download from GeoReM - the Reference Material Database,,,,,,,,,,,,,
+Date of Query: Oct 24. 2023,,,,,,,,,,,,,

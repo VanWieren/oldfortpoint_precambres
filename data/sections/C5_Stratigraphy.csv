@@ -1,0 +1,45 @@
+thickness,lithology,facies,grade,features,sample_name,sample_height,sample_facies,sample_features,d13c_carb,d18o_carb
+16.2,siliciclastic,siltstone; pyrite inclusions,,pyrite,C5_17.6,17.6,sandy pink crystalline limestone,laminated,-10.57352924,-14.38682747
+18.4,siliciclastic,siltstone[rippled cross-bedded grainstone; intraclast pink carbonate breccia],FUS,ripples,C5_18.4,18.4,sandy pink crystalline limestone,laminated,-10.56262684,-14.41404915
+9.4,siliciclastic,siltstone[rippled cross-bedded grainstone with pyrite inclusions; intraclast pink carbonate breccia],FUS,ripples,C5_18.8,18.8,sandy pink crystalline limestone,laminated,-10.4292984,-14.32014751
+,,,,,C5_19.0,19,sandy pink crystalline limestone,laminated,-10.58471298,-14.51070309
+,,,,,C5_19.4,19.4,sandy pink crystalline limestone,laminated,-10.25913239,-14.41390419
+,,,,,C5_20.3,20.3,sandy pink crystalline limestone,laminated,-10.25157833,-14.4398613
+,,,,,C5_22.8,22.8,sandy pink crystalline limestone,laminated,-10.11903095,-14.44569302
+,,,,,C5_23.1,23.1,sandy pink crystalline limestone,laminated,-10.0459156,-14.36587238
+,,,,,C5_23.3,23.3,sandy pink crystalline limestone,laminated,-10.07325172,-14.5697813
+,,,,,C5_24.1,24.1,sandy pink crystalline limestone,laminated,-9.873186111,-14.42150879
+,,,,,C5_27.2,27.2,sandy pink crystalline limestone,laminated,-9.602511406,-14.63660622
+,,,,,C5_27.5,27.5,sandy pink crystalline limestone,,-9.691013336,-14.53872681
+,,,,,C5_27.9,27.9,sandy pink crystalline limestone,,-9.670253754,-14.52899647
+,,,,,C5_28.3,28.3,sandy pink crystalline limestone,,-9.46364212,-14.51674843
+,,,,,C5_28.7,28.7,sandy pink crystalline limestone,,-9.689195633,-14.49651051
+,,,,,C5_28.9,28.9,sandy pink crystalline limestone,,-9.549531937,-14.65649414
+,,,,,C5_29.4,29.4,sandy pink crystalline limestone,,-9.596092224,-14.61542225
+,,,,,C5_29.7,29.7,sandy pink crystalline limestone,,-9.232915878,-14.56885052
+,,,,,C5_30.6,30.6,sandy pink crystalline limestone,,-9.230163574,-14.62837887
+,,,,,C5_30.8,30.8,sandy pink crystalline limestone,,-9.338025093,-14.78385925
+,,,,,C5_31.5,31.5,sandy pink crystalline limestone,,-9.041032791,-14.68814278
+,,,,,C5_31.8,31.8,sandy pink crystalline limestone,,-9.316072464,-14.73420048
+,,,,,C5_33.6,33.6,sandy pink crystalline limestone,,-9.273223877,-14.59179688
+,,,,,C5_33.9,33.9,sandy pink crystalline limestone,,-9.322041512,-14.51510143
+,,,,,C5_34.4,34.4,sandy pink crystalline limestone,,-9.102345467,-14.53616047
+,,,,,C5_34.6,34.6,sandy pink crystalline limestone,,-9.08124733,-14.17494297
+,,,,,C5_35.0,35,sandy pink crystalline limestone,,-9.026691437,-14.48356247
+,,,,,C5_35.2,35.2,sandy pink crystalline limestone,,-9.240082741,-14.66834545
+,,,,,C5_35.3,35.3,sandy pink crystalline limestone,,-8.979057312,-14.54461288
+,,,,,C5_35.5,35.5,sandy pink crystalline limestone,,-8.856304169,-14.59589672
+,,,,,C5_35.8,35.8,sandy pink crystalline limestone,,-8.940348625,-14.55666256
+,,,,,C5_36.0,36,sandy pink crystalline limestone,,-8.932647705,-14.76031113
+,,,,,C5_36.2,36.2,sandy pink crystalline limestone,,-8.993420601,-14.68384361
+,,,,,C5_36.4,36.4,sandy pink crystalline limestone,,-8.992422104,-14.75339127
+,,,,,C5_36.9,36.9,sandy pink crystalline limestone,,-9.001066208,-14.84707451
+,,,,,C5_39.9,39.9,sandy pink crystalline limestone,,-8.681721687,-14.79050922
+,,,,,C5_42.5,42.5,sandy pink crystalline limestone,,-8.360273361,-14.81538105
+,,,,,C5_42.8,42.8,sandy pink crystalline limestone,,-8.425477028,-14.82930279
+,,,,,C5_42.9,42.9,sandy pink crystalline limestone,sulfides,-8.299994469,-14.74498081
+,,,,,C5_43.1,43.1,sandy pink crystalline limestone,sulfides,-8.400743484,-14.83895016
+,,,,,C5_43.3,43.3,sandy pink crystalline limestone,sulfides,-8.513385773,-14.76063633
+,,,,,C5_43.5,43.5,sandy pink crystalline limestone,sulfides,-8.316430092,-14.672328
+,,,,,C5_43.7,43.7,sandy pink crystalline limestone,sulfides,-8.281479836,-14.77988148
+,,,,,C5_44.0,44,sandy pink crystalline limestone,sulfides,-8.235296249,-14.67097092

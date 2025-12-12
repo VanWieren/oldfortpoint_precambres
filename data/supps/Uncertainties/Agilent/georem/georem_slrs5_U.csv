@@ -1,0 +1,24 @@
+U in NRCC SLRS-5 (),,,,,,,,,,,,,
+less/more,Value,Unit,Origin,Uncertainty,Uncertainty Type,Method,Analyses-Comment,Institution,Comment,Last Name,First Name,Year,GeoReM-Id
+,0.0000939,µg/g,measured,0.0000011,SD,ICPMS,with FDC (%),Okayama University,,Hoang,Que D.,2019,GeoReM 11187
+,0.0000943,µg/g,measured,0.0000009,SD,ICPMS,without FDC (%),Okayama University,,Hoang,Que D.,2019,GeoReM 11187
+,0.091,µg/l,compiled,0.012,UNCERT,ICPMS,compiled values interlaboratory,,,Yeghicheyan,D.,2019,GeoReM 11378
+,0.078,µg/l,measured,0.001,UNCERT,ICPMS,,Observatoire de Physique du Globe de Clermont-Ferrand,,Yeghicheyan,D.,2019,GeoReM 11378
+,0.086,µg/l,measured,0.001,UNCERT,ICPMS,,Université Paul Sabatier,,Yeghicheyan,D.,2019,GeoReM 11378
+,0.101,µg/l,measured,0.003,UNCERT,ICPMS,,Service d´Analyse des Roches et des Mineraux (SARM),,Yeghicheyan,D.,2019,GeoReM 11378
+,0.09,µg/l,measured,0.004,UNCERT,ICPMS,,Université de Toulouse,,Yeghicheyan,D.,2019,GeoReM 11378
+,0.0001,µg/g,compiled,,,,,National Research Council of Canada (NRCC),,Mester,Z.,2009,GeoReM 5277
+,0.088,µg/l,measured,0.004,SD,ICPMS,,Université Bordeaux,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.09,µg/l,measured,0.006,SD,ICPMS,,Université de Rennes,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.093,µg/l,measured,0.003,SD,ICPMS,,Université de Montpellier I et II,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.094,µg/l,measured,0.006,SD,ICPMS,,Université de Montpellier II & CNRS,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.109,µg/l,measured,0.008,SD,ICPMS,,Institute de Physique de Globe de Paris (IPGP),,Yeghicheyan,D.,2013,GeoReM 7065
+,0.09,µg/l,measured,0.003,SD,ICPMS,,"Universites Paris et 12 ,Laboratoire Interuniversitaire des Systèmes Atmosphèriques (LISA UMR CNRS 7583)",,Yeghicheyan,D.,2013,GeoReM 7065
+,0.09,µg/l,measured,0.003,SD,ICPMS,,Université Paul Sabatier,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.091,µg/l,measured,0.004,SD,ICPMS,,Université de Toulouse,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.093,µg/l,measured,0.004,SD,ICPMS,,Centre de Recherches Petrographiques et Geochimiques (CRPG),,Yeghicheyan,D.,2013,GeoReM 7065
+,0.093,µg/l,compiled,0.015,95%CL,ICPMS,,,,Yeghicheyan,D.,2013,GeoReM 7065
+,0.0002,µmol/kg,measured,0.00001,SD,ICPMS,,Woods Hole Oceanographic Institution (WHOI),,Gonneea,M.E.,2014,GeoReM 8205
+,,,,,,,,,,,,,
+Download from GeoReM - the Reference Material Database,,,,,,,,,,,,,
+Date of Query: Oct 24. 2023,,,,,,,,,,,,,
